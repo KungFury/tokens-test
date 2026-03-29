@@ -1,2117 +1,2117 @@
 {
-  "color/border/accent": {
-    "sportradar": "{core.color.brand-02}",
-    "bethog": "{core.color.brand-02}",
-    "aposta-ganha": "{core.color.brand-02}"
-  },
-  "color/border/brand": {
-    "sportradar": "{core.color.brand-01}",
-    "bethog": "{core.color.brand-01}",
-    "aposta-ganha": "{core.color.brand-01}"
-  },
-  "color/border/card-default": {
-    "sportradar": "{core.color.black-10}",
-    "bethog": "{core.color.neutral.900}",
-    "aposta-ganha": "{core.color.black-10}"
-  },
-  "color/border/component/az-list/level-1": {
-    "sportradar": "{mapped.color.border.default}",
-    "bethog": "{mapped.color.border.subtle}",
-    "aposta-ganha": "{mapped.color.border.default}"
-  },
-  "color/border/component/az-list/level-2": {
-    "sportradar": "{mapped.color.border.default}",
-    "bethog": "{mapped.color.border.subtle}",
-    "aposta-ganha": "{mapped.color.border.default}"
-  },
-  "color/border/component/az-list/level-3": {
-    "sportradar": "{mapped.color.border.default}",
-    "bethog": "{mapped.color.border.default}",
-    "aposta-ganha": "{mapped.color.border.default}"
-  },
-  "color/border/component/az-sidebar/selected": {
-    "sportradar": "{mapped.color.border.accent}",
-    "bethog": "{mapped.color.border.accent}",
-    "aposta-ganha": "{mapped.color.border.accent}"
-  },
-  "color/border/component/az-time-card": {
-    "sportradar": "{mapped.color.border.default}",
-    "bethog": "{mapped.color.border.card-default}",
-    "aposta-ganha": "{mapped.color.border.default}"
-  },
-  "color/border/component/betslip-compact-d": {
-    "sportradar": "{mapped.color.border.accent}",
-    "bethog": "{mapped.color.border.accent}",
-    "aposta-ganha": "{mapped.color.border.brand}"
-  },
-  "color/border/component/button/brand": {
-    "sportradar": "{core.color.brand-01}",
-    "bethog": "{core.color.brand-01}",
-    "aposta-ganha": "{core.color.brand-01}"
-  },
-  "color/border/component/button/favourite": {
-    "sportradar": "{mapped.color.border.subtle}",
-    "bethog": "{mapped.color.border.component.button.secondary}",
-    "aposta-ganha": "{mapped.color.border.subtle}"
-  },
-  "color/border/component/button/outlined": {
-    "sportradar": "{mapped.color.border.default}",
-    "bethog": "{mapped.color.border.default}",
-    "aposta-ganha": "{mapped.color.border.default}"
-  },
-  "color/border/component/button/payin": {
-    "sportradar": "{mapped.color.border.accent}",
-    "bethog": "{mapped.color.border.accent}",
-    "aposta-ganha": "{mapped.color.border.brand}"
-  },
-  "color/border/component/button/primary": {
-    "sportradar": "{core.color.brand-02}",
-    "bethog": "{core.color.brand-02}",
-    "aposta-ganha": "{core.color.brand-02}"
-  },
-  "color/border/component/button/quick-link": {
-    "sportradar": "{mapped.color.border.default}",
-    "bethog": "{core.color.purple-300}",
-    "aposta-ganha": "{mapped.color.border.default}"
-  },
-  "color/border/component/button/secondary": {
-    "sportradar": "{mapped.color.border.default}",
-    "bethog": "{mapped.color.border.subtle}",
-    "aposta-ganha": "{mapped.color.border.default}"
-  },
-  "color/border/component/button/selected": {
-    "sportradar": "{mapped.color.border.component.button.primary}",
-    "bethog": "{core.color.bethog-01}",
-    "aposta-ganha": "{mapped.color.border.component.button.primary}"
-  },
-  "color/border/component/divider": {
-    "sportradar": "{mapped.color.border.default}",
-    "bethog": "{mapped.color.border.default}",
-    "aposta-ganha": "{mapped.color.border.default}"
-  },
-  "color/border/component/event-market": {
-    "sportradar": "{core.color.black-10}",
-    "bethog": "{mapped.color.surface.component.event-card}",
-    "aposta-ganha": "{core.color.black-10}"
-  },
-  "color/border/component/global-search": {
-    "sportradar": "{mapped.color.border.component.input}",
-    "bethog": "{core.color.brand-01}",
-    "aposta-ganha": "{mapped.color.border.component.input}"
-  },
-  "color/border/component/highlighed-event": {
-    "sportradar": "{mapped.color.border.default}",
-    "bethog": "{mapped.color.surface.card-default}",
-    "aposta-ganha": "{mapped.color.border.default}"
-  },
-  "color/border/component/horizontal-nav/action/active": {
-    "sportradar": "{mapped.color.border.component.button.primary}",
-    "bethog": "{core.color.bethog-01}",
-    "aposta-ganha": "{mapped.color.border.component.button.primary}"
-  },
-  "color/border/component/horizontal-nav/action/default": {
-    "sportradar": "{mapped.color.border.default}",
-    "bethog": "{core.color.purple-300}",
-    "aposta-ganha": "{mapped.color.border.default}"
-  },
-  "color/border/component/input": {
-    "sportradar": "{mapped.color.border.default}",
-    "bethog": "{mapped.color.border.card-default}",
-    "aposta-ganha": "{mapped.color.border.default}"
-  },
-  "color/border/component/main-navigation/bottom": {
-    "sportradar": "{mapped.color.surface.page}",
-    "bethog": "{mapped.color.border.page}",
-    "aposta-ganha": "{mapped.color.surface.page}"
-  },
-  "color/border/component/main-navigation/top": {
-    "sportradar": "{mapped.color.border.default}",
-    "bethog": "{mapped.color.surface.card-default}",
-    "aposta-ganha": "{mapped.color.border.default}"
-  },
-  "color/border/component/modal": {
-    "sportradar": "{mapped.color.border.subtle}",
-    "bethog": "{mapped.color.border.subtle}",
-    "aposta-ganha": "{mapped.color.border.subtle}"
-  },
-  "color/border/component/notification/info": {
-    "sportradar": "{mapped.color.border.info.default}",
-    "bethog": "{mapped.color.border.info.default}",
-    "aposta-ganha": "{mapped.color.border.info.default}"
-  },
-  "color/border/component/notification/negative": {
-    "sportradar": "{mapped.color.border.negative.default}",
-    "bethog": "{mapped.color.border.negative.default}",
-    "aposta-ganha": "{mapped.color.border.negative.default}"
-  },
-  "color/border/component/notification/positive": {
-    "sportradar": "{mapped.color.border.positive.default}",
-    "bethog": "{mapped.color.border.positive.default}",
-    "aposta-ganha": "{mapped.color.border.positive.default}"
-  },
-  "color/border/component/notification/warning": {
-    "sportradar": "{mapped.color.border.warning.default}",
-    "bethog": "{mapped.color.border.warning.default}",
-    "aposta-ganha": "{mapped.color.border.warning.default}"
-  },
-  "color/border/component/outcome/default": {
-    "sportradar": "{mapped.color.border.subtle}",
-    "bethog": "{mapped.color.surface.component.outcome.default}",
-    "aposta-ganha": "{mapped.color.border.subtle}"
-  },
-  "color/border/component/outcome/event-view/default": {
-    "sportradar": "{core.color.blue.100}",
-    "bethog": "{mapped.color.surface.component.outcome.default}",
-    "aposta-ganha": "{core.color.blue.100}"
-  },
-  "color/border/component/outcome/event-view/selected": {
-    "sportradar": "{core.color.white-30}",
-    "bethog": "{core.color.bethog-01}",
-    "aposta-ganha": "{core.color.brand-02}"
-  },
-  "color/border/component/outcome/event-view/special-value": {
-    "sportradar": "{mapped.color.border.page}",
-    "bethog": "{mapped.color.surface.overlay}",
-    "aposta-ganha": "{mapped.color.border.page}"
-  },
-  "color/border/component/outcome/selected": {
-    "sportradar": "{core.color.white-20}",
-    "bethog": "{core.color.bethog-01}",
-    "aposta-ganha": "{core.color.brand-02}"
-  },
-  "color/border/component/outcome/special-value": {
-    "sportradar": "{mapped.color.border.subtle}",
-    "bethog": "{mapped.color.surface.overlay}",
-    "aposta-ganha": "{mapped.color.border.subtle}"
-  },
-  "color/border/component/outright-card/level-1": {
-    "sportradar": "{mapped.color.border.default}",
-    "bethog": "{mapped.color.surface.card-default}",
-    "aposta-ganha": "{mapped.color.border.default}"
-  },
-  "color/border/component/outright-card/level-2": {
-    "sportradar": "{mapped.color.border.default}",
-    "bethog": "{mapped.color.surface.card-default}",
-    "aposta-ganha": "{mapped.color.border.default}"
-  },
-  "color/border/component/outright-card/level-3": {
-    "sportradar": "{mapped.color.border.default}",
-    "bethog": "{mapped.color.surface.secondary}",
-    "aposta-ganha": "{mapped.color.border.default}"
-  },
-  "color/border/component/prepared-betslip": {
-    "sportradar": "{mapped.color.border.default}",
-    "bethog": "{mapped.color.border.subtle}",
-    "aposta-ganha": "{mapped.color.border.default}"
-  },
-  "color/border/component/promoted-catalogue": {
-    "sportradar": "{mapped.color.border.subtle}",
-    "bethog": "{mapped.color.border.subtle}",
-    "aposta-ganha": "{mapped.color.border.subtle}"
-  },
-  "color/border/component/red-card/event-details": {
-    "sportradar": "{mapped.color.surface.component.event-card}",
-    "bethog": "{mapped.color.surface.component.event-card}",
-    "aposta-ganha": "{mapped.color.surface.component.event-card}"
-  },
-  "color/border/component/red-card/event-view": {
-    "sportradar": "{mapped.color.surface.page}",
-    "bethog": "{mapped.color.surface.page}",
-    "aposta-ganha": "{mapped.color.surface.page}"
-  },
-  "color/border/component/result/default": {
-    "sportradar": "{mapped.color.border.accent}",
-    "bethog": "{mapped.color.border.accent}",
-    "aposta-ganha": "{mapped.color.border.accent}"
-  },
-  "color/border/component/result/inverted": {
-    "sportradar": "{core.color.black}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/border/component/select-menu": {
-    "sportradar": "{mapped.color.border.subtle}",
-    "bethog": "{mapped.color.border.subtle}",
-    "aposta-ganha": "{mapped.color.border.subtle}"
-  },
-  "color/border/component/select/default": {
-    "sportradar": "{mapped.color.border.component.button.secondary}",
-    "bethog": "{mapped.color.surface.component.select.default}",
-    "aposta-ganha": "{mapped.color.border.component.button.secondary}"
-  },
-  "color/border/component/slide-control": {
-    "sportradar": "{mapped.color.border.page}",
-    "bethog": "{mapped.color.border.page}",
-    "aposta-ganha": "{mapped.color.border.page}"
-  },
-  "color/border/component/sport-live-select": {
-    "sportradar": "{mapped.color.border.subtle}",
-    "bethog": "{mapped.color.border.card-default}",
-    "aposta-ganha": "{mapped.color.border.subtle}"
-  },
-  "color/border/component/status/info": {
-    "sportradar": "{mapped.color.border.info.default}",
-    "bethog": "{mapped.color.border.info.default}",
-    "aposta-ganha": "{mapped.color.border.info.default}"
-  },
-  "color/border/component/status/negative": {
-    "sportradar": "{mapped.color.border.negative.default}",
-    "bethog": "{mapped.color.border.negative.default}",
-    "aposta-ganha": "{mapped.color.border.negative.default}"
-  },
-  "color/border/component/status/positive": {
-    "sportradar": "{mapped.color.border.positive.default}",
-    "bethog": "{mapped.color.border.positive.default}",
-    "aposta-ganha": "{mapped.color.border.positive.default}"
-  },
-  "color/border/component/status/subtle": {
-    "sportradar": "{mapped.color.surface.tertiary}",
-    "bethog": "{mapped.color.surface.tertiary}",
-    "aposta-ganha": "{mapped.color.surface.tertiary}"
-  },
-  "color/border/component/status/warning": {
-    "sportradar": "{mapped.color.border.warning.default}",
-    "bethog": "{mapped.color.border.warning.default}",
-    "aposta-ganha": "{mapped.color.border.warning.default}"
-  },
-  "color/border/component/tab-group/alternative": {
-    "sportradar": "{mapped.color.border.subtle}",
-    "bethog": "{mapped.color.surface.secondary}",
-    "aposta-ganha": "{mapped.color.border.subtle}"
-  },
-  "color/border/component/tab-group/default": {
-    "sportradar": "{core.color.white-0}",
-    "bethog": "{core.color.white-0}",
-    "aposta-ganha": "{core.color.white-0}"
-  },
-  "color/border/component/tab/ghost/selected": {
-    "sportradar": "{mapped.color.border.component.button.primary}",
-    "bethog": "{core.color.bethog-01}",
-    "aposta-ganha": "{mapped.color.border.component.button.primary}"
-  },
-  "color/border/component/tab/ghost/selected-subtle": {
-    "sportradar": "{mapped.color.border.component.button.secondary}",
-    "bethog": "{core.color.bethog-01}",
-    "aposta-ganha": "{mapped.color.border.component.button.secondary}"
-  },
-  "color/border/component/tab/outline/default": {
-    "sportradar": "{mapped.color.border.default}",
-    "bethog": "{mapped.color.border.default}",
-    "aposta-ganha": "{mapped.color.border.default}"
-  },
-  "color/border/component/tab/outline/selected": {
-    "sportradar": "{mapped.color.border.component.button.primary}",
-    "bethog": "{core.color.bethog-01}",
-    "aposta-ganha": "{mapped.color.border.component.button.primary}"
-  },
-  "color/border/component/tab/outline/selected-subtle": {
-    "sportradar": "{mapped.color.border.component.button.secondary}",
-    "bethog": "{core.color.bethog-01}",
-    "aposta-ganha": "{mapped.color.border.component.button.secondary}"
-  },
-  "color/border/component/tab/underline/selected": {
-    "sportradar": "{mapped.color.border.component.button.primary}",
-    "bethog": "{mapped.color.border.component.button.primary}",
-    "aposta-ganha": "{mapped.color.border.component.button.primary}"
-  },
-  "color/border/component/tab/underline/selected-subtle": {
-    "sportradar": "{core.color.blue.150}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.blue.150}"
-  },
-  "color/border/component/tag/accent": {
-    "sportradar": "{mapped.color.border.accent}",
-    "bethog": "{mapped.color.border.accent}",
-    "aposta-ganha": "{mapped.color.border.accent}"
-  },
-  "color/border/component/tag/accent-inverted": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/border/component/tag/default": {
-    "sportradar": "{mapped.color.border.default}",
-    "bethog": "{mapped.color.border.default}",
-    "aposta-ganha": "{mapped.color.border.default}"
-  },
-  "color/border/component/time-indicator/live": {
-    "sportradar": "{mapped.color.border.default}",
-    "bethog": "{mapped.color.border.subtle}",
-    "aposta-ganha": "{mapped.color.border.default}"
-  },
-  "color/border/component/time-indicator/prematch": {
-    "sportradar": "{mapped.color.border.default}",
-    "bethog": "{mapped.color.border.subtle}",
-    "aposta-ganha": "{mapped.color.border.default}"
-  },
-  "color/border/default": {
-    "sportradar": "{core.color.black-10}",
-    "bethog": "{core.color.white-20}",
-    "aposta-ganha": "{core.color.black-10}"
-  },
-  "color/border/info/default": {
-    "sportradar": "{core.color.light-blue.500}",
-    "bethog": "{core.color.light-blue.500}",
-    "aposta-ganha": "{core.color.light-blue.500}"
-  },
-  "color/border/info/inverted": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/border/negative/default": {
-    "sportradar": "{core.color.red.500}",
-    "bethog": "{core.color.red.500}",
-    "aposta-ganha": "{core.color.red.500}"
-  },
-  "color/border/negative/inverted": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/border/on-brand": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/border/page": {
-    "sportradar": "{core.color.blue.50}",
-    "bethog": "{core.color.neutral.950}",
-    "aposta-ganha": "{core.color.blue.50}"
-  },
-  "color/border/positive/default": {
-    "sportradar": "{core.color.green.500}",
-    "bethog": "{core.color.green.500}",
-    "aposta-ganha": "{core.color.green.500}"
-  },
-  "color/border/positive/inverted": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/border/subtle": {
-    "sportradar": "{core.color.black-5}",
-    "bethog": "{core.color.white-5}",
-    "aposta-ganha": "{core.color.black-5}"
-  },
-  "color/border/warning/default": {
-    "sportradar": "{core.color.light-yellow.500}",
-    "bethog": "{core.color.light-yellow.500}",
-    "aposta-ganha": "{core.color.light-yellow.500}"
-  },
-  "color/border/warning/inverted": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/border/white": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/icon/accent": {
-    "sportradar": "{core.color.brand-02}",
-    "bethog": "{core.color.brand-02}",
-    "aposta-ganha": "{core.color.brand-02}"
-  },
-  "color/icon/black": {
-    "sportradar": "{core.color.black}",
-    "bethog": "{core.color.black}",
-    "aposta-ganha": "{core.color.black}"
-  },
-  "color/icon/black-50": {
-    "sportradar": "{core.color.black-50}",
-    "bethog": "{core.color.black-50}",
-    "aposta-ganha": "{core.color.black-50}"
-  },
-  "color/icon/black-70": {
-    "sportradar": "{core.color.black-70}",
-    "bethog": "{core.color.black-70}",
-    "aposta-ganha": "{core.color.black-70}"
-  },
-  "color/icon/component/az-sidebar/selected": {
-    "sportradar": "{mapped.color.icon.accent}",
-    "bethog": "{mapped.color.icon.accent}",
-    "aposta-ganha": "{mapped.color.icon.accent}"
-  },
-  "color/icon/component/betslip-compact-d": {
-    "sportradar": "{mapped.color.text.on-brand.primary}",
-    "bethog": "{mapped.color.icon.on-primary.primary}",
-    "aposta-ganha": "{mapped.color.text.on-brand.primary}"
-  },
-  "color/icon/component/betslip/info-accent": {
-    "sportradar": "{mapped.color.icon.accent}",
-    "bethog": "{mapped.color.icon.accent}",
-    "aposta-ganha": "{mapped.color.icon.accent}"
-  },
-  "color/icon/component/button/payin": {
-    "sportradar": "{mapped.color.icon.on-primary.primary}",
-    "bethog": "{mapped.color.icon.on-primary.primary}",
-    "aposta-ganha": "{mapped.color.icon.on-primary.primary}"
-  },
-  "color/icon/component/button/payin-disabled": {
-    "sportradar": "{mapped.color.icon.on-primary.disabled}",
-    "bethog": "{mapped.color.icon.on-primary.disabled}",
-    "aposta-ganha": "{mapped.color.icon.on-primary.disabled}"
-  },
-  "color/icon/component/button/selected": {
-    "sportradar": "{mapped.color.icon.on-primary.primary}",
-    "bethog": "{mapped.color.icon.primary}",
-    "aposta-ganha": "{mapped.color.icon.on-primary.primary}"
-  },
-  "color/icon/component/button/selected-ghost": {
-    "sportradar": "{mapped.color.icon.accent}",
-    "bethog": "{mapped.color.icon.accent}",
-    "aposta-ganha": "{mapped.color.icon.accent}"
-  },
-  "color/icon/component/global-search/default": {
-    "sportradar": "{mapped.color.icon.primary}",
-    "bethog": "{mapped.color.icon.primary}",
-    "aposta-ganha": "{mapped.color.icon.primary}"
-  },
-  "color/icon/component/global-search/placeholder": {
-    "sportradar": "{mapped.color.icon.secondary}",
-    "bethog": "{mapped.color.icon.secondary}",
-    "aposta-ganha": "{mapped.color.icon.secondary}"
-  },
-  "color/icon/component/horizontal-nav/action/active": {
-    "sportradar": "{mapped.color.icon.on-primary.primary}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{mapped.color.icon.on-primary.primary}"
-  },
-  "color/icon/component/horizontal-nav/action/default": {
-    "sportradar": "{mapped.color.icon.primary}",
-    "bethog": "{mapped.color.icon.primary}",
-    "aposta-ganha": "{mapped.color.icon.primary}"
-  },
-  "color/icon/component/input/default": {
-    "sportradar": "{mapped.color.icon.secondary}",
-    "bethog": "{mapped.color.icon.secondary}",
-    "aposta-ganha": "{mapped.color.icon.secondary}"
-  },
-  "color/icon/component/input/disabled": {
-    "sportradar": "{mapped.color.icon.disabled}",
-    "bethog": "{mapped.color.icon.disabled}",
-    "aposta-ganha": "{mapped.color.icon.disabled}"
-  },
-  "color/icon/component/notification/info": {
-    "sportradar": "{mapped.color.icon.info.inverted}",
-    "bethog": "{mapped.color.icon.info.inverted}",
-    "aposta-ganha": "{mapped.color.icon.info.inverted}"
-  },
-  "color/icon/component/notification/negative": {
-    "sportradar": "{mapped.color.icon.negative.inverted}",
-    "bethog": "{mapped.color.icon.negative.inverted}",
-    "aposta-ganha": "{mapped.color.icon.negative.inverted}"
-  },
-  "color/icon/component/notification/positive": {
-    "sportradar": "{mapped.color.icon.positive.inverted}",
-    "bethog": "{mapped.color.icon.positive.inverted}",
-    "aposta-ganha": "{mapped.color.icon.positive.inverted}"
-  },
-  "color/icon/component/notification/warning": {
-    "sportradar": "{mapped.color.icon.warning.inverted}",
-    "bethog": "{mapped.color.icon.warning.inverted}",
-    "aposta-ganha": "{mapped.color.icon.warning.inverted}"
-  },
-  "color/icon/component/outcome/disabled": {
-    "sportradar": "{mapped.color.icon.disabled}",
-    "bethog": "{mapped.color.icon.disabled}",
-    "aposta-ganha": "{mapped.color.icon.disabled}"
-  },
-  "color/icon/component/outcome/odds/disabled": {
-    "sportradar": "{mapped.color.icon.disabled}",
-    "bethog": "{mapped.color.icon.disabled}",
-    "aposta-ganha": "{mapped.color.icon.disabled}"
-  },
-  "color/icon/component/promo-header": {
-    "sportradar": "{mapped.color.icon.accent}",
-    "bethog": "{mapped.color.icon.accent}",
-    "aposta-ganha": "{mapped.color.icon.accent}"
-  },
-  "color/icon/component/quick-link-on-sport": {
-    "sportradar": "{mapped.color.text.white}",
-    "bethog": "{mapped.color.text.white}",
-    "aposta-ganha": "{mapped.color.text.white}"
-  },
-  "color/icon/component/quick_link": {
-    "sportradar": "{mapped.color.text.primary}",
-    "bethog": "{mapped.color.text.primary}",
-    "aposta-ganha": "{mapped.color.text.primary}"
-  },
-  "color/icon/component/select/default": {
-    "sportradar": "{mapped.color.icon.secondary}",
-    "bethog": "{mapped.color.icon.secondary}",
-    "aposta-ganha": "{mapped.color.icon.secondary}"
-  },
-  "color/icon/component/select/disabled": {
-    "sportradar": "{mapped.color.icon.disabled}",
-    "bethog": "{mapped.color.icon.disabled}",
-    "aposta-ganha": "{mapped.color.icon.disabled}"
-  },
-  "color/icon/component/tab/ghost/default": {
-    "sportradar": "{mapped.color.icon.primary}",
-    "bethog": "{mapped.color.icon.primary}",
-    "aposta-ganha": "{mapped.color.icon.primary}"
-  },
-  "color/icon/component/tab/ghost/disabled": {
-    "sportradar": "{mapped.color.text.disabled}",
-    "bethog": "{mapped.color.text.disabled}",
-    "aposta-ganha": "{mapped.color.text.disabled}"
-  },
-  "color/icon/component/tab/ghost/selected": {
-    "sportradar": "{mapped.color.icon.on-primary.primary}",
-    "bethog": "{mapped.color.icon.on-primary.primary}",
-    "aposta-ganha": "{mapped.color.icon.on-primary.primary}"
-  },
-  "color/icon/component/tab/ghost/selected-subtle": {
-    "sportradar": "{mapped.color.text.primary}",
-    "bethog": "{mapped.color.text.primary}",
-    "aposta-ganha": "{mapped.color.text.primary}"
-  },
-  "color/icon/component/tab/outline/default": {
-    "sportradar": "{mapped.color.icon.primary}",
-    "bethog": "{mapped.color.icon.primary}",
-    "aposta-ganha": "{mapped.color.icon.primary}"
-  },
-  "color/icon/component/tab/outline/disabled": {
-    "sportradar": "{mapped.color.icon.disabled}",
-    "bethog": "{mapped.color.icon.disabled}",
-    "aposta-ganha": "{mapped.color.icon.disabled}"
-  },
-  "color/icon/component/tab/outline/selected": {
-    "sportradar": "{mapped.color.icon.on-primary.primary}",
-    "bethog": "{mapped.color.icon.on-primary.primary}",
-    "aposta-ganha": "{mapped.color.icon.on-primary.primary}"
-  },
-  "color/icon/component/tab/outline/selected-subtle": {
-    "sportradar": "{mapped.color.icon.primary}",
-    "bethog": "{mapped.color.icon.primary}",
-    "aposta-ganha": "{mapped.color.icon.primary}"
-  },
-  "color/icon/component/time-indicator/live": {
-    "sportradar": "{mapped.color.icon.accent}",
-    "bethog": "{core.color.brand-02}",
-    "aposta-ganha": "{mapped.color.icon.accent}"
-  },
-  "color/icon/disabled": {
-    "sportradar": "{core.color.neutral.1100-50}",
-    "bethog": "{core.color.neutral.00-50}",
-    "aposta-ganha": "{core.color.neutral.1100-50}"
-  },
-  "color/icon/info/default": {
-    "sportradar": "{core.color.light-blue.500}",
-    "bethog": "{core.color.light-blue.500}",
-    "aposta-ganha": "{core.color.light-blue.500}"
-  },
-  "color/icon/info/inverted": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/icon/info/on-inverted": {
-    "sportradar": "{core.color.light-blue.500}",
-    "bethog": "{core.color.light-blue.500}",
-    "aposta-ganha": "{core.color.light-blue.500}"
-  },
-  "color/icon/inverted/disabled": {
-    "sportradar": "{core.color.neutral.00-50}",
-    "bethog": "{core.color.neutral.1100-50}",
-    "aposta-ganha": "{core.color.neutral.00-50}"
-  },
-  "color/icon/inverted/primary": {
-    "sportradar": "{core.color.neutral.00}",
-    "bethog": "{core.color.neutral.1100}",
-    "aposta-ganha": "{core.color.neutral.00}"
-  },
-  "color/icon/inverted/secondary": {
-    "sportradar": "{core.color.neutral.00-70}",
-    "bethog": "{core.color.neutral.1100-70}",
-    "aposta-ganha": "{core.color.neutral.00-70}"
-  },
-  "color/icon/negative/default": {
-    "sportradar": "{core.color.red.500}",
-    "bethog": "{core.color.red.500}",
-    "aposta-ganha": "{core.color.red.500}"
-  },
-  "color/icon/negative/inverted": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/icon/negative/on-inverted": {
-    "sportradar": "{core.color.red.500}",
-    "bethog": "{core.color.red.500}",
-    "aposta-ganha": "{core.color.red.500}"
-  },
-  "color/icon/on-brand/default": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/icon/on-brand/disabled": {
-    "sportradar": "{core.color.white-50}",
-    "bethog": "{core.color.white-50}",
-    "aposta-ganha": "{core.color.white-50}"
-  },
-  "color/icon/on-brand/inverted": {
-    "sportradar": "{core.color.brand-01}",
-    "bethog": "{core.color.brand-01}",
-    "aposta-ganha": "{core.color.brand-01}"
-  },
-  "color/icon/on-brand/inverted-disabled": {
-    "sportradar": "{core.color.black-50}",
-    "bethog": "{core.color.black-50}",
-    "aposta-ganha": "{core.color.black-50}"
-  },
-  "color/icon/on-brand/primary": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/icon/on-brand/secondary": {
-    "sportradar": "{core.color.white-70}",
-    "bethog": "{core.color.white-70}",
-    "aposta-ganha": "{core.color.white-70}"
-  },
-  "color/icon/on-primary/disabled": {
-    "sportradar": "{core.color.white-50}",
-    "bethog": "{core.color.black-50}",
-    "aposta-ganha": "{core.color.white-50}"
-  },
-  "color/icon/on-primary/primary": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.black}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/icon/on-primary/secondary": {
-    "sportradar": "{core.color.white-70}",
-    "bethog": "{core.color.black-70}",
-    "aposta-ganha": "{core.color.white-70}"
-  },
-  "color/icon/positive/default": {
-    "sportradar": "{core.color.green.500}",
-    "bethog": "{core.color.green.500}",
-    "aposta-ganha": "{core.color.green.500}"
-  },
-  "color/icon/positive/inverted": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.black}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/icon/positive/on-inverted": {
-    "sportradar": "{core.color.black}",
-    "bethog": "{core.color.black}",
-    "aposta-ganha": "{core.color.black}"
-  },
-  "color/icon/primary": {
-    "sportradar": "{core.color.neutral.1100}",
-    "bethog": "{core.color.neutral.00}",
-    "aposta-ganha": "{core.color.neutral.1100}"
-  },
-  "color/icon/secondary": {
-    "sportradar": "{core.color.neutral.1100-70}",
-    "bethog": "{core.color.neutral.00-70}",
-    "aposta-ganha": "{core.color.neutral.1100-70}"
-  },
-  "color/icon/warning/default": {
-    "sportradar": "{core.color.light-yellow.500}",
-    "bethog": "{core.color.light-yellow.500}",
-    "aposta-ganha": "{core.color.light-yellow.500}"
-  },
-  "color/icon/warning/inverted": {
-    "sportradar": "{core.color.black}",
-    "bethog": "{core.color.black}",
-    "aposta-ganha": "{core.color.black}"
-  },
-  "color/icon/warning/on-inverted": {
-    "sportradar": "{core.color.black}",
-    "bethog": "{core.color.black}",
-    "aposta-ganha": "{core.color.black}"
-  },
-  "color/icon/white": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/icon/white-50": {
-    "sportradar": "{core.color.white-50}",
-    "bethog": "{core.color.white-50}",
-    "aposta-ganha": "{core.color.white-50}"
-  },
-  "color/icon/white-70": {
-    "sportradar": "{core.color.white-70}",
-    "bethog": "{core.color.white-70}",
-    "aposta-ganha": "{core.color.white-70}"
-  },
-  "color/state/disabled": {
-    "sportradar": "{core.color.black-10}",
-    "bethog": "{core.color.black-20}",
-    "aposta-ganha": "{core.color.black-10}"
-  },
-  "color/state/hover": {
-    "sportradar": "{core.color.black-5}",
-    "bethog": "{core.color.white-5}",
-    "aposta-ganha": "{core.color.black-5}"
-  },
-  "color/state/pressed": {
-    "sportradar": "{core.color.black-10}",
-    "bethog": "{core.color.black-10}",
-    "aposta-ganha": "{core.color.black-10}"
-  },
-  "color/surface/accent": {
-    "sportradar": "{core.color.brand-02}",
-    "bethog": "{core.color.brand-02}",
-    "aposta-ganha": "{core.color.brand-02}"
-  },
-  "color/surface/brand": {
-    "sportradar": "{core.color.brand-01}",
-    "bethog": "{core.color.brand-01}",
-    "aposta-ganha": "{core.color.brand-01}"
-  },
-  "color/surface/card-default": {
-    "sportradar": "{core.color.neutral.00}",
-    "bethog": "{core.color.neutral.950}",
-    "aposta-ganha": "{core.color.neutral.00}"
-  },
-  "color/surface/card-default-transparent": {
-    "sportradar": "{core.color.neutral.00-00}",
-    "bethog": "{core.color.neutral.950-0}",
-    "aposta-ganha": "{core.color.neutral.00-00}"
-  },
-  "color/surface/component/az-list/bottom-sheet": {
-    "sportradar": "{mapped.color.surface.card-default}",
-    "bethog": "{mapped.color.surface.component.bottom-sheet}",
-    "aposta-ganha": "{mapped.color.surface.card-default}"
-  },
-  "color/surface/component/az-list/list-sidebar": {
-    "sportradar": "{mapped.color.surface.card-default}",
-    "bethog": "{mapped.color.surface.card-default}",
-    "aposta-ganha": "{mapped.color.surface.card-default}"
-  },
-  "color/surface/component/az-list/menu/level-1": {
-    "sportradar": "{mapped.color.surface.card-default}",
-    "bethog": "{core.color.neutral.850}",
-    "aposta-ganha": "{mapped.color.surface.card-default}"
-  },
-  "color/surface/component/az-list/menu/level-2": {
-    "sportradar": "{mapped.color.surface.secondary}",
-    "bethog": "{core.color.neutral.900}",
-    "aposta-ganha": "{mapped.color.surface.secondary}"
-  },
-  "color/surface/component/az-list/menu/level-3": {
-    "sportradar": "{mapped.color.surface.card-default}",
-    "bethog": "{core.color.neutral.950}",
-    "aposta-ganha": "{mapped.color.surface.card-default}"
-  },
-  "color/surface/component/az-list/time-card": {
-    "sportradar": "{mapped.color.surface.card-default}",
-    "bethog": "{mapped.color.surface.card-default}",
-    "aposta-ganha": "{mapped.color.surface.card-default}"
-  },
-  "color/surface/component/bet-details/actionable": {
-    "sportradar": "{mapped.color.surface.card-default}",
-    "bethog": "{core.color.neutral.900}",
-    "aposta-ganha": "{mapped.color.surface.card-default}"
-  },
-  "color/surface/component/bet-details/modal": {
-    "sportradar": "{mapped.color.surface.page}",
-    "bethog": "{mapped.color.surface.card-default}",
-    "aposta-ganha": "{mapped.color.surface.page}"
-  },
-  "color/surface/component/bet-details/read-only": {
-    "sportradar": "{mapped.color.surface.card-default}",
-    "bethog": "{core.color.neutral.900}",
-    "aposta-ganha": "{mapped.color.surface.card-default}"
-  },
-  "color/surface/component/betslip-compact-d": {
-    "sportradar": "{mapped.color.surface.accent}",
-    "bethog": "{mapped.color.surface.accent}",
-    "aposta-ganha": "{mapped.color.surface.brand}"
-  },
-  "color/surface/component/betslip-compact-m": {
-    "sportradar": "{mapped.color.surface.component.main-navigation.bottom}",
-    "bethog": "{mapped.color.surface.accent}",
-    "aposta-ganha": "{mapped.color.surface.brand}"
-  },
-  "color/surface/component/betslip-compact-m-inverted": {
-    "sportradar": "{mapped.color.surface.accent}",
-    "bethog": "{mapped.color.surface.card-default}",
-    "aposta-ganha": "{mapped.color.surface.on-brand}"
-  },
-  "color/surface/component/bottom-sheet": {
-    "sportradar": "{mapped.color.surface.card-default}",
-    "bethog": "{core.color.neutral.900}",
-    "aposta-ganha": "{mapped.color.surface.card-default}"
-  },
-  "color/surface/component/button/brand": {
-    "sportradar": "{core.color.brand-01}",
-    "bethog": "{core.color.brand-01}",
-    "aposta-ganha": "{core.color.brand-01}"
-  },
-  "color/surface/component/button/favourite": {
-    "sportradar": "{mapped.color.surface.card-default}",
-    "bethog": "{mapped.color.surface.component.button.secondary}",
-    "aposta-ganha": "{mapped.color.surface.card-default}"
-  },
-  "color/surface/component/button/payin": {
-    "sportradar": "{mapped.color.surface.accent}",
-    "bethog": "{mapped.color.surface.accent}",
-    "aposta-ganha": "{mapped.color.surface.brand}"
-  },
-  "color/surface/component/button/primary": {
-    "sportradar": "{core.color.brand-02}",
-    "bethog": "{core.color.brand-02}",
-    "aposta-ganha": "{core.color.brand-02}"
-  },
-  "color/surface/component/button/quick-link": {
-    "sportradar": "{mapped.color.surface.card-default}",
-    "bethog": "{core.color.purple-600}",
-    "aposta-ganha": "{mapped.color.surface.card-default}"
-  },
-  "color/surface/component/button/secondary": {
-    "sportradar": "{mapped.color.surface.secondary}",
-    "bethog": "{core.color.white-10}",
-    "aposta-ganha": "{mapped.color.surface.secondary}"
-  },
-  "color/surface/component/button/selected": {
-    "sportradar": "{mapped.color.surface.component.button.primary}",
-    "bethog": "{core.color.bethog-02}",
-    "aposta-ganha": "{mapped.color.surface.component.button.primary}"
-  },
-  "color/surface/component/event-card": {
-    "sportradar": "{mapped.color.surface.card-default}",
-    "bethog": "{mapped.color.surface.card-default}",
-    "aposta-ganha": "{mapped.color.surface.card-default}"
-  },
-  "color/surface/component/event-market": {
-    "sportradar": "{mapped.color.surface.card-default}",
-    "bethog": "{mapped.color.surface.card-default}",
-    "aposta-ganha": "{mapped.color.surface.card-default}"
-  },
-  "color/surface/component/global-search": {
-    "sportradar": "{mapped.color.surface.component.input}",
-    "bethog": "{mapped.color.surface.component.input}",
-    "aposta-ganha": "{mapped.color.surface.component.input}"
-  },
-  "color/surface/component/header": {
-    "sportradar": "{mapped.color.surface.brand}",
-    "bethog": "{mapped.color.surface.brand}",
-    "aposta-ganha": "{mapped.color.surface.brand}"
-  },
-  "color/surface/component/highlighed-event": {
-    "sportradar": "{mapped.color.surface.card-default}",
-    "bethog": "{mapped.color.surface.card-default}",
-    "aposta-ganha": "{mapped.color.surface.card-default}"
-  },
-  "color/surface/component/horizontal-nav/action/active": {
-    "sportradar": "{mapped.color.surface.component.button.primary}",
-    "bethog": "{core.color.bethog-03}",
-    "aposta-ganha": "{mapped.color.surface.component.button.primary}"
-  },
-  "color/surface/component/horizontal-nav/action/default": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.purple-600}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/surface/component/input": {
-    "sportradar": "{core.color.blue.100}",
-    "bethog": "{core.color.neutral.1000}",
-    "aposta-ganha": "{core.color.blue.100}"
-  },
-  "color/surface/component/main-navigation/bottom": {
-    "sportradar": "{mapped.color.surface.card-default}",
-    "bethog": "{mapped.color.surface.card-default}",
-    "aposta-ganha": "{mapped.color.surface.card-default}"
-  },
-  "color/surface/component/main-navigation/top": {
-    "sportradar": "{mapped.color.surface.card-default}",
-    "bethog": "{mapped.color.surface.card-default}",
-    "aposta-ganha": "{mapped.color.surface.card-default}"
-  },
-  "color/surface/component/modal": {
-    "sportradar": "{mapped.color.surface.card-default}",
-    "bethog": "{mapped.color.surface.card-default}",
-    "aposta-ganha": "{mapped.color.surface.card-default}"
-  },
-  "color/surface/component/notification/info": {
-    "sportradar": "{mapped.color.surface.info.default}",
-    "bethog": "{mapped.color.surface.info.default}",
-    "aposta-ganha": "{mapped.color.surface.info.default}"
-  },
-  "color/surface/component/notification/negative": {
-    "sportradar": "{mapped.color.surface.negative.default}",
-    "bethog": "{mapped.color.surface.negative.default}",
-    "aposta-ganha": "{mapped.color.surface.negative.default}"
-  },
-  "color/surface/component/notification/positive": {
-    "sportradar": "{mapped.color.surface.positive.default}",
-    "bethog": "{mapped.color.surface.positive.default}",
-    "aposta-ganha": "{mapped.color.surface.positive.default}"
-  },
-  "color/surface/component/notification/warning": {
-    "sportradar": "{mapped.color.surface.warning.default}",
-    "bethog": "{mapped.color.surface.warning.default}",
-    "aposta-ganha": "{mapped.color.surface.warning.default}"
-  },
-  "color/surface/component/odds-change/down": {
-    "sportradar": "{mapped.color.surface.negative.default}",
-    "bethog": "{mapped.color.surface.negative.default}",
-    "aposta-ganha": "{mapped.color.surface.negative.default}"
-  },
-  "color/surface/component/odds-change/down-selected": {
-    "sportradar": "{mapped.color.surface.on-brand}",
-    "bethog": "{mapped.color.surface.on-brand}",
-    "aposta-ganha": "{mapped.color.surface.on-brand}"
-  },
-  "color/surface/component/odds-change/up": {
-    "sportradar": "{mapped.color.surface.positive.default}",
-    "bethog": "{mapped.color.surface.positive.default}",
-    "aposta-ganha": "{mapped.color.surface.positive.default}"
-  },
-  "color/surface/component/odds-change/up-selected": {
-    "sportradar": "{mapped.color.surface.on-brand}",
-    "bethog": "{mapped.color.surface.on-brand}",
-    "aposta-ganha": "{mapped.color.surface.on-brand}"
-  },
-  "color/surface/component/outcome/default": {
-    "sportradar": "{mapped.color.surface.secondary}",
-    "bethog": "{core.color.neutral.850}",
-    "aposta-ganha": "{mapped.color.surface.secondary}"
-  },
-  "color/surface/component/outcome/event-view/default": {
-    "sportradar": "{mapped.color.surface.secondary}",
-    "bethog": "{core.color.neutral.850}",
-    "aposta-ganha": "{mapped.color.surface.secondary}"
-  },
-  "color/surface/component/outcome/event-view/selected": {
-    "sportradar": "{core.color.brand-01}",
-    "bethog": "{core.color.bethog-03}",
-    "aposta-ganha": "{core.color.brand-02}"
-  },
-  "color/surface/component/outcome/event-view/special-value": {
-    "sportradar": "{mapped.color.surface.page}",
-    "bethog": "{mapped.color.surface.overlay}",
-    "aposta-ganha": "{mapped.color.surface.page}"
-  },
-  "color/surface/component/outcome/selected": {
-    "sportradar": "{core.color.brand-01}",
-    "bethog": "{core.color.bethog-03}",
-    "aposta-ganha": "{core.color.brand-02}"
-  },
-  "color/surface/component/outcome/special-value": {
-    "sportradar": "{core.color.blue.100}",
-    "bethog": "{mapped.color.surface.overlay}",
-    "aposta-ganha": "{core.color.blue.100}"
-  },
-  "color/surface/component/outright-card/level-1": {
-    "sportradar": "{mapped.color.surface.card-default}",
-    "bethog": "{mapped.color.surface.card-default}",
-    "aposta-ganha": "{mapped.color.surface.card-default}"
-  },
-  "color/surface/component/outright-card/level-2": {
-    "sportradar": "{mapped.color.surface.card-default}",
-    "bethog": "{mapped.color.surface.card-default}",
-    "aposta-ganha": "{mapped.color.surface.card-default}"
-  },
-  "color/surface/component/outright-card/level-3": {
-    "sportradar": "{mapped.color.surface.secondary}",
-    "bethog": "{mapped.color.surface.secondary}",
-    "aposta-ganha": "{mapped.color.surface.secondary}"
-  },
-  "color/surface/component/prepared-betslip/card": {
-    "sportradar": "{mapped.color.surface.card-default}",
-    "bethog": "{mapped.color.surface.card-default}",
-    "aposta-ganha": "{mapped.color.surface.card-default}"
-  },
-  "color/surface/component/prepared-betslip/highlight-01": {
-    "sportradar": "{core.color.additional-01}",
-    "bethog": "{core.color.additional-01}",
-    "aposta-ganha": "{core.color.additional-01}"
-  },
-  "color/surface/component/prepared-betslip/highlight-02": {
-    "sportradar": "{core.color.additional-02}",
-    "bethog": "{core.color.additional-02}",
-    "aposta-ganha": "{core.color.additional-02}"
-  },
-  "color/surface/component/promoted-catalogue": {
-    "sportradar": "{mapped.color.surface.card-default}",
-    "bethog": "{mapped.color.surface.card-default}",
-    "aposta-ganha": "{mapped.color.surface.card-default}"
-  },
-  "color/surface/component/red-card": {
-    "sportradar": "{mapped.color.surface.negative.default}",
-    "bethog": "{mapped.color.surface.negative.default}",
-    "aposta-ganha": "{mapped.color.surface.negative.default}"
-  },
-  "color/surface/component/result/default": {
-    "sportradar": "{core.color.brand-02}",
-    "bethog": "{core.color.brand-02}",
-    "aposta-ganha": "{core.color.brand-02}"
-  },
-  "color/surface/component/result/inverted": {
-    "sportradar": "{core.color.black}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/surface/component/select-menu": {
-    "sportradar": "{mapped.color.surface.card-default}",
-    "bethog": "{mapped.color.surface.card-default}",
-    "aposta-ganha": "{mapped.color.surface.card-default}"
-  },
-  "color/surface/component/select/default": {
-    "sportradar": "{mapped.color.surface.component.button.secondary}",
-    "bethog": "{mapped.color.surface.component.button.secondary}",
-    "aposta-ganha": "{mapped.color.surface.component.button.secondary}"
-  },
-  "color/surface/component/slide-control": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{mapped.color.surface.page}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/surface/component/sport-select-live": {
-    "sportradar": "{mapped.color.surface.card-default}",
-    "bethog": "{mapped.color.surface.card-default}",
-    "aposta-ganha": "{mapped.color.surface.card-default}"
-  },
-  "color/surface/component/status/info": {
-    "sportradar": "{mapped.color.surface.info.default}",
-    "bethog": "{mapped.color.surface.info.default}",
-    "aposta-ganha": "{mapped.color.surface.info.default}"
-  },
-  "color/surface/component/status/negative": {
-    "sportradar": "{mapped.color.surface.negative.default}",
-    "bethog": "{mapped.color.surface.negative.default}",
-    "aposta-ganha": "{mapped.color.surface.negative.default}"
-  },
-  "color/surface/component/status/positive": {
-    "sportradar": "{mapped.color.surface.positive.default}",
-    "bethog": "{mapped.color.surface.positive.default}",
-    "aposta-ganha": "{mapped.color.surface.positive.default}"
-  },
-  "color/surface/component/status/subtle": {
-    "sportradar": "{mapped.color.surface.tertiary}",
-    "bethog": "{mapped.color.surface.tertiary}",
-    "aposta-ganha": "{mapped.color.surface.tertiary}"
-  },
-  "color/surface/component/status/warning": {
-    "sportradar": "{mapped.color.surface.warning.default}",
-    "bethog": "{mapped.color.surface.warning.default}",
-    "aposta-ganha": "{mapped.color.surface.warning.default}"
-  },
-  "color/surface/component/swipe-indicator/active": {
-    "sportradar": "{mapped.color.surface.accent}",
-    "bethog": "{mapped.color.surface.accent}",
-    "aposta-ganha": "{mapped.color.surface.accent}"
-  },
-  "color/surface/component/swipe-indicator/default": {
-    "sportradar": "{mapped.color.surface.tertiary}",
-    "bethog": "{core.color.neutral.850}",
-    "aposta-ganha": "{mapped.color.surface.tertiary}"
-  },
-  "color/surface/component/tab-group/alternative": {
-    "sportradar": "{mapped.color.surface.secondary}",
-    "bethog": "{mapped.color.surface.secondary}",
-    "aposta-ganha": "{mapped.color.surface.secondary}"
-  },
-  "color/surface/component/tab-group/default": {
-    "sportradar": "{mapped.color.surface.card-default}",
-    "bethog": "{mapped.color.surface.card-default}",
-    "aposta-ganha": "{mapped.color.surface.card-default}"
-  },
-  "color/surface/component/tab/ghost/selected": {
-    "sportradar": "{core.color.brand-02}",
-    "bethog": "{core.color.bethog-03}",
-    "aposta-ganha": "{core.color.brand-02}"
-  },
-  "color/surface/component/tab/ghost/selected-subtle": {
-    "sportradar": "{mapped.color.surface.tertiary}",
-    "bethog": "{core.color.bethog-03}",
-    "aposta-ganha": "{mapped.color.surface.tertiary}"
-  },
-  "color/surface/component/tab/outline/selected": {
-    "sportradar": "{core.color.brand-02}",
-    "bethog": "{core.color.bethog-03}",
-    "aposta-ganha": "{core.color.brand-02}"
-  },
-  "color/surface/component/tab/outline/selected-subtle": {
-    "sportradar": "{mapped.color.surface.tertiary}",
-    "bethog": "{core.color.bethog-03}",
-    "aposta-ganha": "{mapped.color.surface.tertiary}"
-  },
-  "color/surface/component/tag/accent": {
-    "sportradar": "{mapped.color.surface.accent}",
-    "bethog": "{mapped.color.surface.accent}",
-    "aposta-ganha": "{mapped.color.surface.accent}"
-  },
-  "color/surface/component/tag/accent-inverted": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/surface/component/tag/default": {
-    "sportradar": "{mapped.color.surface.secondary}",
-    "bethog": "{mapped.color.surface.secondary}",
-    "aposta-ganha": "{mapped.color.surface.secondary}"
-  },
-  "color/surface/component/time-indicator/live": {
-    "sportradar": "{mapped.color.surface.secondary}",
-    "bethog": "{mapped.color.surface.secondary}",
-    "aposta-ganha": "{mapped.color.surface.secondary}"
-  },
-  "color/surface/component/time-indicator/prematch": {
-    "sportradar": "{mapped.color.surface.secondary}",
-    "bethog": "{mapped.color.surface.secondary}",
-    "aposta-ganha": "{mapped.color.surface.secondary}"
-  },
-  "color/surface/component/yellow-card": {
-    "sportradar": "{core.color.yellow}",
-    "bethog": "{core.color.yellow}",
-    "aposta-ganha": "{core.color.yellow}"
-  },
-  "color/surface/info/default": {
-    "sportradar": "{core.color.light-blue.500}",
-    "bethog": "{core.color.light-blue.500}",
-    "aposta-ganha": "{core.color.light-blue.500}"
-  },
-  "color/surface/info/inverted": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/surface/inverted": {
-    "sportradar": "{core.color.black}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.black}"
-  },
-  "color/surface/negative/default": {
-    "sportradar": "{core.color.red.500}",
-    "bethog": "{core.color.red.500}",
-    "aposta-ganha": "{core.color.red.500}"
-  },
-  "color/surface/negative/inverted": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/surface/on-brand": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/surface/on-primary": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/surface/overlay": {
-    "sportradar": "{core.color.black-50}",
-    "bethog": "{core.color.black-50}",
-    "aposta-ganha": "{core.color.black-50}"
-  },
-  "color/surface/overlay-subtle": {
-    "sportradar": "{core.color.black-10}",
-    "bethog": "{core.color.white-10}",
-    "aposta-ganha": "{core.color.black-10}"
-  },
-  "color/surface/page": {
-    "sportradar": "{core.color.blue.50}",
-    "bethog": "{core.color.neutral.1000}",
-    "aposta-ganha": "{core.color.blue.50}"
-  },
-  "color/surface/page-transparent": {
-    "sportradar": "{core.color.blue.50-00}",
-    "bethog": "{core.color.neutral.1000-0}",
-    "aposta-ganha": "{core.color.blue.50-00}"
-  },
-  "color/surface/positive/default": {
-    "sportradar": "{core.color.green.500}",
-    "bethog": "{core.color.green.500}",
-    "aposta-ganha": "{core.color.green.500}"
-  },
-  "color/surface/positive/inverted": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/surface/secondary": {
-    "sportradar": "{core.color.neutral.50}",
-    "bethog": "{core.color.neutral.850}",
-    "aposta-ganha": "{core.color.neutral.50}"
-  },
-  "color/surface/sport/alpine-skiing/solid": {
-    "sportradar": "{core.color.sports.alppine-skiing}",
-    "bethog": "{core.color.sports.alppine-skiing}",
-    "aposta-ganha": "{core.color.sports.alppine-skiing}"
-  },
-  "color/surface/sport/alpine-skiing/transparent": {
-    "sportradar": "{core.color.sports.alppine-skiing-00}",
-    "bethog": "{core.color.sports.alppine-skiing-00}",
-    "aposta-ganha": "{core.color.sports.alppine-skiing-00}"
-  },
-  "color/surface/sport/american-football/solid": {
-    "sportradar": "{core.color.sports.american-football}",
-    "bethog": "{core.color.sports.american-football}",
-    "aposta-ganha": "{core.color.sports.american-football}"
-  },
-  "color/surface/sport/american-football/transparent": {
-    "sportradar": "{core.color.sports.american-football-00}",
-    "bethog": "{core.color.sports.american-football-00}",
-    "aposta-ganha": "{core.color.sports.american-football-00}"
-  },
-  "color/surface/sport/aussie-rules/solid": {
-    "sportradar": "{core.color.sports.aussie-rules}",
-    "bethog": "{core.color.sports.aussie-rules}",
-    "aposta-ganha": "{core.color.sports.aussie-rules}"
-  },
-  "color/surface/sport/aussie-rules/transparent": {
-    "sportradar": "{core.color.sports.aussie-rules-00}",
-    "bethog": "{core.color.sports.aussie-rules-00}",
-    "aposta-ganha": "{core.color.sports.aussie-rules-00}"
-  },
-  "color/surface/sport/badminton/solid": {
-    "sportradar": "{core.color.sports.badminton}",
-    "bethog": "{core.color.sports.badminton}",
-    "aposta-ganha": "{core.color.sports.badminton}"
-  },
-  "color/surface/sport/badminton/transparent": {
-    "sportradar": "{core.color.sports.badminton-00}",
-    "bethog": "{core.color.sports.badminton-00}",
-    "aposta-ganha": "{core.color.sports.badminton-00}"
-  },
-  "color/surface/sport/baseball/solid": {
-    "sportradar": "{core.color.sports.baseball}",
-    "bethog": "{core.color.sports.baseball}",
-    "aposta-ganha": "{core.color.sports.baseball}"
-  },
-  "color/surface/sport/baseball/transparent": {
-    "sportradar": "{core.color.sports.baseball-00}",
-    "bethog": "{core.color.sports.baseball-00}",
-    "aposta-ganha": "{core.color.sports.baseball-00}"
-  },
-  "color/surface/sport/basketball/solid": {
-    "sportradar": "{core.color.sports.basketball}",
-    "bethog": "{core.color.sports.basketball}",
-    "aposta-ganha": "{core.color.sports.basketball}"
-  },
-  "color/surface/sport/basketball/transparent": {
-    "sportradar": "{core.color.sports.basketball-00}",
-    "bethog": "{core.color.sports.basketball-00}",
-    "aposta-ganha": "{core.color.sports.basketball-00}"
-  },
-  "color/surface/sport/beach-volley/solid": {
-    "sportradar": "{core.color.sports.beach-volleyball}",
-    "bethog": "{core.color.sports.beach-volleyball}",
-    "aposta-ganha": "{core.color.sports.beach-volleyball}"
-  },
-  "color/surface/sport/beach-volley/transparent": {
-    "sportradar": "{core.color.sports.beach-volleyball-00}",
-    "bethog": "{core.color.sports.beach-volleyball-00}",
-    "aposta-ganha": "{core.color.sports.beach-volleyball-00}"
-  },
-  "color/surface/sport/bowling/solid": {
-    "sportradar": "{core.color.sports.bowling}",
-    "bethog": "{core.color.sports.bowling}",
-    "aposta-ganha": "{core.color.sports.bowling}"
-  },
-  "color/surface/sport/bowling/transparent": {
-    "sportradar": "{core.color.sports.bowling-00}",
-    "bethog": "{core.color.sports.bowling-00}",
-    "aposta-ganha": "{core.color.sports.bowling-00}"
-  },
-  "color/surface/sport/counter-strike/solid": {
-    "sportradar": "{core.color.sports.counter-strike}",
-    "bethog": "{core.color.sports.counter-strike}",
-    "aposta-ganha": "{core.color.sports.counter-strike}"
-  },
-  "color/surface/sport/counter-strike/transparent": {
-    "sportradar": "{core.color.sports.counter-strike-00}",
-    "bethog": "{core.color.sports.counter-strike-00}",
-    "aposta-ganha": "{core.color.sports.counter-strike-00}"
-  },
-  "color/surface/sport/cricket/solid": {
-    "sportradar": "{core.color.sports.cricket}",
-    "bethog": "{core.color.sports.cricket}",
-    "aposta-ganha": "{core.color.sports.cricket}"
-  },
-  "color/surface/sport/cricket/transparent": {
-    "sportradar": "{core.color.sports.cricket-00}",
-    "bethog": "{core.color.sports.cricket-00}",
-    "aposta-ganha": "{core.color.sports.cricket-00}"
-  },
-  "color/surface/sport/darts/solid": {
-    "sportradar": "{core.color.sports.darts}",
-    "bethog": "{core.color.sports.darts}",
-    "aposta-ganha": "{core.color.sports.darts}"
-  },
-  "color/surface/sport/darts/transparent": {
-    "sportradar": "{core.color.sports.darts-00}",
-    "bethog": "{core.color.sports.darts-00}",
-    "aposta-ganha": "{core.color.sports.darts-00}"
-  },
-  "color/surface/sport/default/solid": {
-    "sportradar": "{core.color.sports.other}",
-    "bethog": "{core.color.sports.other}",
-    "aposta-ganha": "{core.color.sports.other}"
-  },
-  "color/surface/sport/default/transparent": {
-    "sportradar": "{core.color.sports.other-00}",
-    "bethog": "{core.color.sports.other-00}",
-    "aposta-ganha": "{core.color.sports.other-00}"
-  },
-  "color/surface/sport/dota-2/solid": {
-    "sportradar": "{core.color.sports.dota-2}",
-    "bethog": "{core.color.sports.dota-2}",
-    "aposta-ganha": "{core.color.sports.dota-2}"
-  },
-  "color/surface/sport/dota-2/transparent": {
-    "sportradar": "{core.color.sports.dota-2-00}",
-    "bethog": "{core.color.sports.dota-2-00}",
-    "aposta-ganha": "{core.color.sports.dota-2-00}"
-  },
-  "color/surface/sport/ebasketball/solid": {
-    "sportradar": "{core.color.sports.ebasketball}",
-    "bethog": "{core.color.sports.ebasketball}",
-    "aposta-ganha": "{core.color.sports.ebasketball}"
-  },
-  "color/surface/sport/ebasketball/transparent": {
-    "sportradar": "{core.color.sports.ebasketball-00}",
-    "bethog": "{core.color.sports.ebasketball-00}",
-    "aposta-ganha": "{core.color.sports.ebasketball-00}"
-  },
-  "color/surface/sport/elce-hockey/solid": {
-    "sportradar": "{core.color.sports.elce-hockey}",
-    "bethog": "{core.color.sports.elce-hockey}",
-    "aposta-ganha": "{core.color.sports.elce-hockey}"
-  },
-  "color/surface/sport/elce-hockey/transparent": {
-    "sportradar": "{core.color.sports.elce-hockey-00}",
-    "bethog": "{core.color.sports.elce-hockey-00}",
-    "aposta-ganha": "{core.color.sports.elce-hockey-00}"
-  },
-  "color/surface/sport/esoccer/solid": {
-    "sportradar": "{core.color.sports.esoccer}",
-    "bethog": "{core.color.sports.esoccer}",
-    "aposta-ganha": "{core.color.sports.esoccer}"
-  },
-  "color/surface/sport/esoccer/transparent": {
-    "sportradar": "{core.color.sports.esoccer-00}",
-    "bethog": "{core.color.sports.esoccer-00}",
-    "aposta-ganha": "{core.color.sports.esoccer-00}"
-  },
-  "color/surface/sport/field-hockey/solid": {
-    "sportradar": "{core.color.sports.field-hockey}",
-    "bethog": "{core.color.sports.field-hockey}",
-    "aposta-ganha": "{core.color.sports.field-hockey}"
-  },
-  "color/surface/sport/field-hockey/transparent": {
-    "sportradar": "{core.color.sports.field-hockey-00}",
-    "bethog": "{core.color.sports.field-hockey-00}",
-    "aposta-ganha": "{core.color.sports.field-hockey-00}"
-  },
-  "color/surface/sport/formula-1/solid": {
-    "sportradar": "{core.color.sports.formula-1}",
-    "bethog": "{core.color.sports.formula-1}",
-    "aposta-ganha": "{core.color.sports.formula-1}"
-  },
-  "color/surface/sport/formula-1/transparent": {
-    "sportradar": "{core.color.sports.formula-1-00}",
-    "bethog": "{core.color.sports.formula-1-00}",
-    "aposta-ganha": "{core.color.sports.formula-1-00}"
-  },
-  "color/surface/sport/futsal/solid": {
-    "sportradar": "{core.color.sports.futsal}",
-    "bethog": "{core.color.sports.futsal}",
-    "aposta-ganha": "{core.color.sports.futsal}"
-  },
-  "color/surface/sport/futsal/transparent": {
-    "sportradar": "{core.color.sports.futsal-00}",
-    "bethog": "{core.color.sports.futsal-00}",
-    "aposta-ganha": "{core.color.sports.futsal-00}"
-  },
-  "color/surface/sport/golf/solid": {
-    "sportradar": "{core.color.sports.golf}",
-    "bethog": "{core.color.sports.golf}",
-    "aposta-ganha": "{core.color.sports.golf}"
-  },
-  "color/surface/sport/golf/transparent": {
-    "sportradar": "{core.color.sports.golf-00}",
-    "bethog": "{core.color.sports.golf-00}",
-    "aposta-ganha": "{core.color.sports.golf-00}"
-  },
-  "color/surface/sport/handball/solid": {
-    "sportradar": "{core.color.sports.handball}",
-    "bethog": "{core.color.sports.handball}",
-    "aposta-ganha": "{core.color.sports.handball}"
-  },
-  "color/surface/sport/handball/transparent": {
-    "sportradar": "{core.color.sports.handball-00}",
-    "bethog": "{core.color.sports.handball-00}",
-    "aposta-ganha": "{core.color.sports.handball-00}"
-  },
-  "color/surface/sport/ice-hockey/solid": {
-    "sportradar": "{core.color.sports.ice-hockey}",
-    "bethog": "{core.color.sports.ice-hockey}",
-    "aposta-ganha": "{core.color.sports.ice-hockey}"
-  },
-  "color/surface/sport/ice-hockey/transparent": {
-    "sportradar": "{core.color.sports.ice-hockey-00}",
-    "bethog": "{core.color.sports.ice-hockey-00}",
-    "aposta-ganha": "{core.color.sports.ice-hockey-00}"
-  },
-  "color/surface/sport/kabaddi/solid": {
-    "sportradar": "{core.color.sports.kabaddi}",
-    "bethog": "{core.color.sports.kabaddi}",
-    "aposta-ganha": "{core.color.sports.kabaddi}"
-  },
-  "color/surface/sport/kabaddi/transparent": {
-    "sportradar": "{core.color.sports.kabaddi-00}",
-    "bethog": "{core.color.sports.kabaddi-00}",
-    "aposta-ganha": "{core.color.sports.kabaddi-00}"
-  },
-  "color/surface/sport/league-of-legends/solid": {
-    "sportradar": "{core.color.sports.league-of-legends}",
-    "bethog": "{core.color.sports.league-of-legends}",
-    "aposta-ganha": "{core.color.sports.league-of-legends}"
-  },
-  "color/surface/sport/league-of-legends/transparent": {
-    "sportradar": "{core.color.sports.league-of-legends-00}",
-    "bethog": "{core.color.sports.league-of-legends-00}",
-    "aposta-ganha": "{core.color.sports.league-of-legends-00}"
-  },
-  "color/surface/sport/mma/solid": {
-    "sportradar": "{core.color.sports.mma}",
-    "bethog": "{core.color.sports.mma}",
-    "aposta-ganha": "{core.color.sports.mma}"
-  },
-  "color/surface/sport/mma/transparent": {
-    "sportradar": "{core.color.sports.mma-00}",
-    "bethog": "{core.color.sports.mma-00}",
-    "aposta-ganha": "{core.color.sports.mma-00}"
-  },
-  "color/surface/sport/moto-gp/solid": {
-    "sportradar": "{core.color.sports.moto-gp}",
-    "bethog": "{core.color.sports.moto-gp}",
-    "aposta-ganha": "{core.color.sports.moto-gp}"
-  },
-  "color/surface/sport/moto-gp/transparent": {
-    "sportradar": "{core.color.sports.moto-gp-00}",
-    "bethog": "{core.color.sports.moto-gp-00}",
-    "aposta-ganha": "{core.color.sports.moto-gp-00}"
-  },
-  "color/surface/sport/nascar/solid": {
-    "sportradar": "{core.color.sports.nascar}",
-    "bethog": "{core.color.sports.nascar}",
-    "aposta-ganha": "{core.color.sports.nascar}"
-  },
-  "color/surface/sport/nascar/transparent": {
-    "sportradar": "{core.color.sports.nascar-00}",
-    "bethog": "{core.color.sports.nascar-00}",
-    "aposta-ganha": "{core.color.sports.nascar-00}"
-  },
-  "color/surface/sport/rugby/solid": {
-    "sportradar": "{core.color.sports.rugby}",
-    "bethog": "{core.color.sports.rugby}",
-    "aposta-ganha": "{core.color.sports.rugby}"
-  },
-  "color/surface/sport/rugby/transparent": {
-    "sportradar": "{core.color.sports.rugby-00}",
-    "bethog": "{core.color.sports.rugby-00}",
-    "aposta-ganha": "{core.color.sports.rugby-00}"
-  },
-  "color/surface/sport/ski-jumping/solid": {
-    "sportradar": "{core.color.sports.ski-jumping}",
-    "bethog": "{core.color.sports.ski-jumping}",
-    "aposta-ganha": "{core.color.sports.ski-jumping}"
-  },
-  "color/surface/sport/ski-jumping/transparent": {
-    "sportradar": "{core.color.sports.ski-jumping-00}",
-    "bethog": "{core.color.sports.ski-jumping-00}",
-    "aposta-ganha": "{core.color.sports.ski-jumping-00}"
-  },
-  "color/surface/sport/snooker/solid": {
-    "sportradar": "{core.color.sports.snooker}",
-    "bethog": "{core.color.sports.snooker}",
-    "aposta-ganha": "{core.color.sports.snooker}"
-  },
-  "color/surface/sport/snooker/transparent": {
-    "sportradar": "{core.color.sports.snooker-00}",
-    "bethog": "{core.color.sports.snooker-00}",
-    "aposta-ganha": "{core.color.sports.snooker-00}"
-  },
-  "color/surface/sport/soccer/solid": {
-    "sportradar": "{core.color.sports.soccer}",
-    "bethog": "{core.color.sports.soccer}",
-    "aposta-ganha": "{core.color.sports.soccer}"
-  },
-  "color/surface/sport/soccer/transparent": {
-    "sportradar": "{core.color.sports.soccer-00}",
-    "bethog": "{core.color.sports.soccer-00}",
-    "aposta-ganha": "{core.color.sports.soccer-00}"
-  },
-  "color/surface/sport/squash/solid": {
-    "sportradar": "{core.color.sports.squash}",
-    "bethog": "{core.color.sports.squash}",
-    "aposta-ganha": "{core.color.sports.squash}"
-  },
-  "color/surface/sport/squash/transparent": {
-    "sportradar": "{core.color.sports.squash-00}",
-    "bethog": "{core.color.sports.squash-00}",
-    "aposta-ganha": "{core.color.sports.squash-00}"
-  },
-  "color/surface/sport/table-tennis/solid": {
-    "sportradar": "{core.color.sports.table-tennis}",
-    "bethog": "{core.color.sports.table-tennis}",
-    "aposta-ganha": "{core.color.sports.table-tennis}"
-  },
-  "color/surface/sport/table-tennis/transparent": {
-    "sportradar": "{core.color.sports.table-tennis-00}",
-    "bethog": "{core.color.sports.table-tennis-00}",
-    "aposta-ganha": "{core.color.sports.table-tennis-00}"
-  },
-  "color/surface/sport/tennis/solid": {
-    "sportradar": "{core.color.sports.tennis}",
-    "bethog": "{core.color.sports.tennis}",
-    "aposta-ganha": "{core.color.sports.tennis}"
-  },
-  "color/surface/sport/tennis/transparent": {
-    "sportradar": "{core.color.sports.tennis-00}",
-    "bethog": "{core.color.sports.tennis-00}",
-    "aposta-ganha": "{core.color.sports.tennis-00}"
-  },
-  "color/surface/sport/volleyball/solid": {
-    "sportradar": "{core.color.sports.volleyball}",
-    "bethog": "{core.color.sports.volleyball}",
-    "aposta-ganha": "{core.color.sports.volleyball}"
-  },
-  "color/surface/sport/volleyball/transparent": {
-    "sportradar": "{core.color.sports.volleyball-00}",
-    "bethog": "{core.color.sports.volleyball-00}",
-    "aposta-ganha": "{core.color.sports.volleyball-00}"
-  },
-  "color/surface/tertiary": {
-    "sportradar": "{core.color.blue.200}",
-    "bethog": "{core.color.neutral.750}",
-    "aposta-ganha": "{core.color.blue.200}"
-  },
-  "color/surface/warning/default": {
-    "sportradar": "{core.color.light-yellow.500}",
-    "bethog": "{core.color.light-yellow.500}",
-    "aposta-ganha": "{core.color.light-yellow.500}"
-  },
-  "color/surface/warning/inverted": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/surface/white": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/text/accent": {
-    "sportradar": "{core.color.brand-02}",
-    "bethog": "{core.color.brand-02}",
-    "aposta-ganha": "{core.color.brand-02}"
-  },
-  "color/text/black": {
-    "sportradar": "{core.color.black}",
-    "bethog": "{core.color.black}",
-    "aposta-ganha": "{core.color.black}"
-  },
-  "color/text/black-0": {
-    "sportradar": "{core.color.black-0}",
-    "bethog": "{core.color.black-0}",
-    "aposta-ganha": "{core.color.black-0}"
-  },
-  "color/text/black-50": {
-    "sportradar": "{core.color.black-50}",
-    "bethog": "{core.color.black-50}",
-    "aposta-ganha": "{core.color.black-50}"
-  },
-  "color/text/black-70": {
-    "sportradar": "{core.color.black-70}",
-    "bethog": "{core.color.black-70}",
-    "aposta-ganha": "{core.color.black-70}"
-  },
-  "color/text/component/az-sidebar/selected": {
-    "sportradar": "{mapped.color.text.accent}",
-    "bethog": "{mapped.color.text.accent}",
-    "aposta-ganha": "{mapped.color.text.accent}"
-  },
-  "color/text/component/betslip-compact-d/primary": {
-    "sportradar": "{mapped.color.text.on-brand.primary}",
-    "bethog": "{mapped.color.text.on-primary.primary}",
-    "aposta-ganha": "{mapped.color.text.on-brand.primary}"
-  },
-  "color/text/component/betslip-compact-d/secondary": {
-    "sportradar": "{mapped.color.text.on-brand.secondary}",
-    "bethog": "{mapped.color.text.on-primary.secondary}",
-    "aposta-ganha": "{mapped.color.text.on-brand.secondary}"
-  },
-  "color/text/component/betslip-compact-m/accent": {
-    "sportradar": "{mapped.color.text.accent}",
-    "bethog": "{mapped.color.text.black}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/text/component/betslip-compact-m/default": {
-    "sportradar": "{mapped.color.text.primary}",
-    "bethog": "{mapped.color.text.black}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/text/component/betslip-compact-m/on-inverted": {
-    "sportradar": "{mapped.color.text.white}",
-    "bethog": "{mapped.color.text.accent}",
-    "aposta-ganha": "{mapped.color.text.on-brand.inverted}"
-  },
-  "color/text/component/betslip-compact-m/secondary": {
-    "sportradar": "{mapped.color.text.secondary}",
-    "bethog": "{mapped.color.text.black-70}",
-    "aposta-ganha": "{core.color.white-70}"
-  },
-  "color/text/component/betslip-highlight": {
-    "sportradar": "{mapped.color.text.white}",
-    "bethog": "{mapped.color.text.white}",
-    "aposta-ganha": "{mapped.color.text.white}"
-  },
-  "color/text/component/betslip-odds/default": {
-    "sportradar": "{mapped.color.text.component.outcome.odds.default}",
-    "bethog": "{mapped.color.text.component.outcome.odds.default}",
-    "aposta-ganha": "{mapped.color.text.component.outcome.odds.default}"
-  },
-  "color/text/component/betslip-odds/disabled": {
-    "sportradar": "{mapped.color.text.disabled}",
-    "bethog": "{mapped.color.text.disabled}",
-    "aposta-ganha": "{mapped.color.text.disabled}"
-  },
-  "color/text/component/betslip/info-accent": {
-    "sportradar": "{mapped.color.text.accent}",
-    "bethog": "{mapped.color.text.accent}",
-    "aposta-ganha": "{mapped.color.text.accent}"
-  },
-  "color/text/component/button/payin": {
-    "sportradar": "{mapped.color.text.on-primary.primary}",
-    "bethog": "{mapped.color.text.on-primary.primary}",
-    "aposta-ganha": "{mapped.color.text.on-primary.primary}"
-  },
-  "color/text/component/button/payin-disabled": {
-    "sportradar": "{mapped.color.text.on-primary.disabled}",
-    "bethog": "{mapped.color.text.on-primary.disabled}",
-    "aposta-ganha": "{mapped.color.text.on-primary.disabled}"
-  },
-  "color/text/component/button/selected": {
-    "sportradar": "{mapped.color.text.on-primary.primary}",
-    "bethog": "{mapped.color.text.primary}",
-    "aposta-ganha": "{mapped.color.text.on-primary.primary}"
-  },
-  "color/text/component/button/selected-ghost": {
-    "sportradar": "{mapped.color.text.accent}",
-    "bethog": "{mapped.color.text.accent}",
-    "aposta-ganha": "{mapped.color.text.accent}"
-  },
-  "color/text/component/global-search/default": {
-    "sportradar": "{mapped.color.text.primary}",
-    "bethog": "{mapped.color.text.primary}",
-    "aposta-ganha": "{mapped.color.text.primary}"
-  },
-  "color/text/component/global-search/placeholder": {
-    "sportradar": "{mapped.color.text.secondary}",
-    "bethog": "{mapped.color.text.secondary}",
-    "aposta-ganha": "{mapped.color.text.secondary}"
-  },
-  "color/text/component/horizontal-nav/action/active": {
-    "sportradar": "{mapped.color.text.primary}",
-    "bethog": "{mapped.color.text.primary}",
-    "aposta-ganha": "{mapped.color.text.primary}"
-  },
-  "color/text/component/horizontal-nav/action/default": {
-    "sportradar": "{mapped.color.text.primary}",
-    "bethog": "{mapped.color.text.primary}",
-    "aposta-ganha": "{mapped.color.text.primary}"
-  },
-  "color/text/component/input/default": {
-    "sportradar": "{mapped.color.text.primary}",
-    "bethog": "{mapped.color.text.primary}",
-    "aposta-ganha": "{mapped.color.text.primary}"
-  },
-  "color/text/component/input/disabled": {
-    "sportradar": "{mapped.color.text.disabled}",
-    "bethog": "{mapped.color.text.disabled}",
-    "aposta-ganha": "{mapped.color.text.disabled}"
-  },
-  "color/text/component/input/secondary": {
-    "sportradar": "{mapped.color.text.secondary}",
-    "bethog": "{mapped.color.text.secondary}",
-    "aposta-ganha": "{mapped.color.text.secondary}"
-  },
-  "color/text/component/notification/info": {
-    "sportradar": "{mapped.color.text.info.inverted}",
-    "bethog": "{mapped.color.text.info.inverted}",
-    "aposta-ganha": "{mapped.color.text.info.inverted}"
-  },
-  "color/text/component/notification/negative": {
-    "sportradar": "{mapped.color.text.negative.inverted}",
-    "bethog": "{mapped.color.text.negative.inverted}",
-    "aposta-ganha": "{mapped.color.text.negative.inverted}"
-  },
-  "color/text/component/notification/positive": {
-    "sportradar": "{mapped.color.text.positive.inverted}",
-    "bethog": "{mapped.color.text.positive.inverted}",
-    "aposta-ganha": "{mapped.color.text.positive.inverted}"
-  },
-  "color/text/component/notification/warning": {
-    "sportradar": "{mapped.color.text.warning.inverted}",
-    "bethog": "{mapped.color.text.warning.inverted}",
-    "aposta-ganha": "{mapped.color.text.warning.inverted}"
-  },
-  "color/text/component/outcome/asian-accent": {
-    "sportradar": "{mapped.color.text.accent}",
-    "bethog": "{mapped.color.text.accent}",
-    "aposta-ganha": "{mapped.color.text.accent}"
-  },
-  "color/text/component/outcome/default": {
-    "sportradar": "{mapped.color.text.primary}",
-    "bethog": "{mapped.color.text.primary}",
-    "aposta-ganha": "{mapped.color.text.primary}"
-  },
-  "color/text/component/outcome/disabled": {
-    "sportradar": "{mapped.color.text.disabled}",
-    "bethog": "{mapped.color.text.disabled}",
-    "aposta-ganha": "{mapped.color.text.disabled}"
-  },
-  "color/text/component/outcome/odds/asian-accent": {
-    "sportradar": "{mapped.color.text.negative.default}",
-    "bethog": "{mapped.color.text.negative.default}",
-    "aposta-ganha": "{mapped.color.text.negative.default}"
-  },
-  "color/text/component/outcome/odds/default": {
-    "sportradar": "{mapped.color.text.primary}",
-    "bethog": "{core.color.additional-green}",
-    "aposta-ganha": "{mapped.color.text.primary}"
-  },
-  "color/text/component/outcome/odds/disabled": {
-    "sportradar": "{mapped.color.text.disabled}",
-    "bethog": "{mapped.color.text.disabled}",
-    "aposta-ganha": "{mapped.color.text.disabled}"
-  },
-  "color/text/component/outcome/odds/selected": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/text/component/outcome/selected": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/text/component/outcome/special-value": {
-    "sportradar": "{mapped.color.text.primary}",
-    "bethog": "{mapped.color.text.primary}",
-    "aposta-ganha": "{mapped.color.text.primary}"
-  },
-  "color/text/component/prepared-betslip/highlight": {
-    "sportradar": "{mapped.color.text.white}",
-    "bethog": "{mapped.color.text.white}",
-    "aposta-ganha": "{mapped.color.text.white}"
-  },
-  "color/text/component/promo-header": {
-    "sportradar": "{mapped.color.text.accent}",
-    "bethog": "{mapped.color.text.accent}",
-    "aposta-ganha": "{mapped.color.text.accent}"
-  },
-  "color/text/component/result/default": {
-    "sportradar": "{core.color.brand-02}",
-    "bethog": "{core.color.brand-02}",
-    "aposta-ganha": "{core.color.brand-02}"
-  },
-  "color/text/component/result/on-default": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.neutral.950}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/text/component/result/on-inverted": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.neutral.950}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/text/component/result/secondary": {
-    "sportradar": "{mapped.color.text.primary}",
-    "bethog": "{mapped.color.text.primary}",
-    "aposta-ganha": "{mapped.color.text.primary}"
-  },
-  "color/text/component/result/tertiary": {
-    "sportradar": "{mapped.color.text.secondary}",
-    "bethog": "{mapped.color.text.secondary}",
-    "aposta-ganha": "{mapped.color.text.secondary}"
-  },
-  "color/text/component/select/default": {
-    "sportradar": "{mapped.color.text.primary}",
-    "bethog": "{mapped.color.text.primary}",
-    "aposta-ganha": "{mapped.color.text.primary}"
-  },
-  "color/text/component/select/disabled": {
-    "sportradar": "{mapped.color.text.disabled}",
-    "bethog": "{mapped.color.text.disabled}",
-    "aposta-ganha": "{mapped.color.text.disabled}"
-  },
-  "color/text/component/status/info": {
-    "sportradar": "{mapped.color.text.info.inverted}",
-    "bethog": "{mapped.color.text.info.inverted}",
-    "aposta-ganha": "{mapped.color.text.info.inverted}"
-  },
-  "color/text/component/status/negative": {
-    "sportradar": "{mapped.color.text.negative.inverted}",
-    "bethog": "{mapped.color.text.negative.inverted}",
-    "aposta-ganha": "{mapped.color.text.negative.inverted}"
-  },
-  "color/text/component/status/positive": {
-    "sportradar": "{mapped.color.text.positive.inverted}",
-    "bethog": "{mapped.color.text.positive.inverted}",
-    "aposta-ganha": "{mapped.color.text.positive.inverted}"
-  },
-  "color/text/component/status/subtle": {
-    "sportradar": "{mapped.color.text.secondary}",
-    "bethog": "{mapped.color.text.secondary}",
-    "aposta-ganha": "{mapped.color.text.secondary}"
-  },
-  "color/text/component/status/warning": {
-    "sportradar": "{mapped.color.text.warning.inverted}",
-    "bethog": "{mapped.color.text.warning.inverted}",
-    "aposta-ganha": "{mapped.color.text.warning.inverted}"
-  },
-  "color/text/component/tab/ghost/default": {
-    "sportradar": "{mapped.color.text.primary}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{mapped.color.text.primary}"
-  },
-  "color/text/component/tab/ghost/disabled": {
-    "sportradar": "{mapped.color.text.disabled}",
-    "bethog": "{core.color.white-50}",
-    "aposta-ganha": "{mapped.color.text.disabled}"
-  },
-  "color/text/component/tab/ghost/selected": {
-    "sportradar": "{mapped.color.text.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{mapped.color.text.white}"
-  },
-  "color/text/component/tab/ghost/selected-subtle": {
-    "sportradar": "{mapped.color.text.primary}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{mapped.color.text.primary}"
-  },
-  "color/text/component/tab/outline/default": {
-    "sportradar": "{mapped.color.text.primary}",
-    "bethog": "{mapped.color.text.primary}",
-    "aposta-ganha": "{mapped.color.text.primary}"
-  },
-  "color/text/component/tab/outline/disabled": {
-    "sportradar": "{mapped.color.text.disabled}",
-    "bethog": "{mapped.color.text.disabled}",
-    "aposta-ganha": "{mapped.color.text.disabled}"
-  },
-  "color/text/component/tab/outline/selected": {
-    "sportradar": "{mapped.color.text.on-primary.primary}",
-    "bethog": "{mapped.color.text.on-primary.primary}",
-    "aposta-ganha": "{mapped.color.text.on-primary.primary}"
-  },
-  "color/text/component/tab/outline/selected-subtle": {
-    "sportradar": "{mapped.color.text.primary}",
-    "bethog": "{mapped.color.text.primary}",
-    "aposta-ganha": "{mapped.color.text.primary}"
-  },
-  "color/text/component/tag/accent": {
-    "sportradar": "{mapped.color.text.on-primary.primary}",
-    "bethog": "{mapped.color.text.on-primary.primary}",
-    "aposta-ganha": "{mapped.color.text.on-primary.primary}"
-  },
-  "color/text/component/tag/accent-inverted": {
-    "sportradar": "{mapped.color.text.accent}",
-    "bethog": "{core.color.bethog-02}",
-    "aposta-ganha": "{mapped.color.text.accent}"
-  },
-  "color/text/component/tag/default": {
-    "sportradar": "{mapped.color.text.primary}",
-    "bethog": "{mapped.color.text.primary}",
-    "aposta-ganha": "{mapped.color.text.primary}"
-  },
-  "color/text/component/time-indicator/live": {
-    "sportradar": "{mapped.color.text.primary}",
-    "bethog": "{mapped.color.text.primary}",
-    "aposta-ganha": "{mapped.color.text.primary}"
-  },
-  "color/text/component/time-indicator/prematch": {
-    "sportradar": "{mapped.color.text.primary}",
-    "bethog": "{mapped.color.text.primary}",
-    "aposta-ganha": "{mapped.color.text.primary}"
-  },
-  "color/text/disabled": {
-    "sportradar": "{core.color.neutral.1100-50}",
-    "bethog": "{core.color.neutral.00-50}",
-    "aposta-ganha": "{core.color.neutral.1100-50}"
-  },
-  "color/text/info/default": {
-    "sportradar": "{core.color.light-blue.500}",
-    "bethog": "{core.color.light-blue.500}",
-    "aposta-ganha": "{core.color.light-blue.500}"
-  },
-  "color/text/info/inverted": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/text/info/on-inverted": {
-    "sportradar": "{core.color.light-blue.500}",
-    "bethog": "{core.color.light-blue.500}",
-    "aposta-ganha": "{core.color.light-blue.500}"
-  },
-  "color/text/inverted/disabled": {
-    "sportradar": "{core.color.neutral.00-50}",
-    "bethog": "{core.color.neutral.1100-50}",
-    "aposta-ganha": "{core.color.neutral.00-50}"
-  },
-  "color/text/inverted/primary": {
-    "sportradar": "{core.color.neutral.00}",
-    "bethog": "{core.color.neutral.1100}",
-    "aposta-ganha": "{core.color.neutral.00}"
-  },
-  "color/text/inverted/secondary": {
-    "sportradar": "{core.color.neutral.00-70}",
-    "bethog": "{core.color.neutral.1100-70}",
-    "aposta-ganha": "{core.color.neutral.00-70}"
-  },
-  "color/text/negative/default": {
-    "sportradar": "{core.color.red.500}",
-    "bethog": "{core.color.red.500}",
-    "aposta-ganha": "{core.color.red.500}"
-  },
-  "color/text/negative/inverted": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/text/negative/inverted-transparent": {
-    "sportradar": "{core.color.white-0}",
-    "bethog": "{core.color.white-0}",
-    "aposta-ganha": "{core.color.white-0}"
-  },
-  "color/text/negative/on-inverted": {
-    "sportradar": "{core.color.red.500}",
-    "bethog": "{core.color.red.500}",
-    "aposta-ganha": "{core.color.red.500}"
-  },
-  "color/text/on-brand/disabled": {
-    "sportradar": "{core.color.white-50}",
-    "bethog": "{core.color.white-50}",
-    "aposta-ganha": "{core.color.white-50}"
-  },
-  "color/text/on-brand/inverted": {
-    "sportradar": "{core.color.brand-01}",
-    "bethog": "{core.color.brand-01}",
-    "aposta-ganha": "{core.color.brand-01}"
-  },
-  "color/text/on-brand/inverted-disabled": {
-    "sportradar": "{core.color.black-70}",
-    "bethog": "{core.color.black-50}",
-    "aposta-ganha": "{core.color.black-70}"
-  },
-  "color/text/on-brand/primary": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/text/on-brand/secondary": {
-    "sportradar": "{core.color.white-70}",
-    "bethog": "{core.color.white-70}",
-    "aposta-ganha": "{core.color.white-70}"
-  },
-  "color/text/on-brand/transparent": {
-    "sportradar": "{core.color.white-0}",
-    "bethog": "{core.color.white-0}",
-    "aposta-ganha": "{core.color.white-0}"
-  },
-  "color/text/on-primary/disabled": {
-    "sportradar": "{core.color.white-50}",
-    "bethog": "{core.color.black-50}",
-    "aposta-ganha": "{core.color.white-50}"
-  },
-  "color/text/on-primary/primary": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.black}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/text/on-primary/secondary": {
-    "sportradar": "{core.color.white-70}",
-    "bethog": "{core.color.black-70}",
-    "aposta-ganha": "{core.color.white-70}"
-  },
-  "color/text/on-primary/transparent": {
-    "sportradar": "{core.color.white-0}",
-    "bethog": "{core.color.black-0}",
-    "aposta-ganha": "{core.color.white-0}"
-  },
-  "color/text/positive/default": {
-    "sportradar": "{core.color.green.500}",
-    "bethog": "{core.color.green.500}",
-    "aposta-ganha": "{core.color.green.500}"
-  },
-  "color/text/positive/inverted": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.black}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/text/positive/inverted-transparent": {
-    "sportradar": "{core.color.white-0}",
-    "bethog": "{core.color.white-0}",
-    "aposta-ganha": "{core.color.white-0}"
-  },
-  "color/text/positive/on-inverted": {
-    "sportradar": "{core.color.black}",
-    "bethog": "{core.color.black}",
-    "aposta-ganha": "{core.color.black}"
-  },
-  "color/text/primary": {
-    "sportradar": "{core.color.neutral.1100}",
-    "bethog": "{core.color.neutral.00}",
-    "aposta-ganha": "{core.color.neutral.1100}"
-  },
-  "color/text/primary-transparent": {
-    "sportradar": "{core.color.neutral.1100-00}",
-    "bethog": "{core.color.neutral.00-00}",
-    "aposta-ganha": "{core.color.neutral.1100-00}"
-  },
-  "color/text/secondary": {
-    "sportradar": "{core.color.neutral.1100-70}",
-    "bethog": "{core.color.neutral.00-70}",
-    "aposta-ganha": "{core.color.neutral.1100-70}"
-  },
-  "color/text/warning/default": {
-    "sportradar": "{core.color.light-yellow.500}",
-    "bethog": "{core.color.light-yellow.500}",
-    "aposta-ganha": "{core.color.light-yellow.500}"
-  },
-  "color/text/warning/inverted": {
-    "sportradar": "{core.color.black}",
-    "bethog": "{core.color.black}",
-    "aposta-ganha": "{core.color.black}"
-  },
-  "color/text/warning/on-inverted": {
-    "sportradar": "{core.color.black}",
-    "bethog": "{core.color.black}",
-    "aposta-ganha": "{core.color.black}"
-  },
-  "color/text/white": {
-    "sportradar": "{core.color.white}",
-    "bethog": "{core.color.white}",
-    "aposta-ganha": "{core.color.white}"
-  },
-  "color/text/white-50": {
-    "sportradar": "{core.color.white-50}",
-    "bethog": "{core.color.white-50}",
-    "aposta-ganha": "{core.color.white-50}"
-  },
-  "color/text/white-70": {
-    "sportradar": "{core.color.white-70}",
-    "bethog": "{core.color.white-70}",
-    "aposta-ganha": "{core.color.white-70}"
+  "mapped/color/border/accent": {
+    "sportradar": "{core/color/brand-02}",
+    "bethog": "{core/color/brand-02}",
+    "aposta-ganha": "{core/color/brand-02}"
+  },
+  "mapped/color/border/brand": {
+    "sportradar": "{core/color/brand-01}",
+    "bethog": "{core/color/brand-01}",
+    "aposta-ganha": "{core/color/brand-01}"
+  },
+  "mapped/color/border/card-default": {
+    "sportradar": "{core/color/black-10}",
+    "bethog": "{core/color/neutral/900}",
+    "aposta-ganha": "{core/color/black-10}"
+  },
+  "mapped/color/border/component/az-list/level-1": {
+    "sportradar": "{mapped/color/border/default}",
+    "bethog": "{mapped/color/border/subtle}",
+    "aposta-ganha": "{mapped/color/border/default}"
+  },
+  "mapped/color/border/component/az-list/level-2": {
+    "sportradar": "{mapped/color/border/default}",
+    "bethog": "{mapped/color/border/subtle}",
+    "aposta-ganha": "{mapped/color/border/default}"
+  },
+  "mapped/color/border/component/az-list/level-3": {
+    "sportradar": "{mapped/color/border/default}",
+    "bethog": "{mapped/color/border/default}",
+    "aposta-ganha": "{mapped/color/border/default}"
+  },
+  "mapped/color/border/component/az-sidebar/selected": {
+    "sportradar": "{mapped/color/border/accent}",
+    "bethog": "{mapped/color/border/accent}",
+    "aposta-ganha": "{mapped/color/border/accent}"
+  },
+  "mapped/color/border/component/az-time-card": {
+    "sportradar": "{mapped/color/border/default}",
+    "bethog": "{mapped/color/border/card-default}",
+    "aposta-ganha": "{mapped/color/border/default}"
+  },
+  "mapped/color/border/component/betslip-compact-d": {
+    "sportradar": "{mapped/color/border/accent}",
+    "bethog": "{mapped/color/border/accent}",
+    "aposta-ganha": "{mapped/color/border/brand}"
+  },
+  "mapped/color/border/component/button/brand": {
+    "sportradar": "{core/color/brand-01}",
+    "bethog": "{core/color/brand-01}",
+    "aposta-ganha": "{core/color/brand-01}"
+  },
+  "mapped/color/border/component/button/favourite": {
+    "sportradar": "{mapped/color/border/subtle}",
+    "bethog": "{mapped/color/border/component/button/secondary}",
+    "aposta-ganha": "{mapped/color/border/subtle}"
+  },
+  "mapped/color/border/component/button/outlined": {
+    "sportradar": "{mapped/color/border/default}",
+    "bethog": "{mapped/color/border/default}",
+    "aposta-ganha": "{mapped/color/border/default}"
+  },
+  "mapped/color/border/component/button/payin": {
+    "sportradar": "{mapped/color/border/accent}",
+    "bethog": "{mapped/color/border/accent}",
+    "aposta-ganha": "{mapped/color/border/brand}"
+  },
+  "mapped/color/border/component/button/primary": {
+    "sportradar": "{core/color/brand-02}",
+    "bethog": "{core/color/brand-02}",
+    "aposta-ganha": "{core/color/brand-02}"
+  },
+  "mapped/color/border/component/button/quick-link": {
+    "sportradar": "{mapped/color/border/default}",
+    "bethog": "{core/color/purple-300}",
+    "aposta-ganha": "{mapped/color/border/default}"
+  },
+  "mapped/color/border/component/button/secondary": {
+    "sportradar": "{mapped/color/border/default}",
+    "bethog": "{mapped/color/border/subtle}",
+    "aposta-ganha": "{mapped/color/border/default}"
+  },
+  "mapped/color/border/component/button/selected": {
+    "sportradar": "{mapped/color/border/component/button/primary}",
+    "bethog": "{core/color/bethog-01}",
+    "aposta-ganha": "{mapped/color/border/component/button/primary}"
+  },
+  "mapped/color/border/component/divider": {
+    "sportradar": "{mapped/color/border/default}",
+    "bethog": "{mapped/color/border/default}",
+    "aposta-ganha": "{mapped/color/border/default}"
+  },
+  "mapped/color/border/component/event-market": {
+    "sportradar": "{core/color/black-10}",
+    "bethog": "{mapped/color/surface/component/event-card}",
+    "aposta-ganha": "{core/color/black-10}"
+  },
+  "mapped/color/border/component/global-search": {
+    "sportradar": "{mapped/color/border/component/input}",
+    "bethog": "{core/color/brand-01}",
+    "aposta-ganha": "{mapped/color/border/component/input}"
+  },
+  "mapped/color/border/component/highlighed-event": {
+    "sportradar": "{mapped/color/border/default}",
+    "bethog": "{mapped/color/surface/card-default}",
+    "aposta-ganha": "{mapped/color/border/default}"
+  },
+  "mapped/color/border/component/horizontal-nav/action/active": {
+    "sportradar": "{mapped/color/border/component/button/primary}",
+    "bethog": "{core/color/bethog-01}",
+    "aposta-ganha": "{mapped/color/border/component/button/primary}"
+  },
+  "mapped/color/border/component/horizontal-nav/action/default": {
+    "sportradar": "{mapped/color/border/default}",
+    "bethog": "{core/color/purple-300}",
+    "aposta-ganha": "{mapped/color/border/default}"
+  },
+  "mapped/color/border/component/input": {
+    "sportradar": "{mapped/color/border/default}",
+    "bethog": "{mapped/color/border/card-default}",
+    "aposta-ganha": "{mapped/color/border/default}"
+  },
+  "mapped/color/border/component/main-navigation/bottom": {
+    "sportradar": "{mapped/color/surface/page}",
+    "bethog": "{mapped/color/border/page}",
+    "aposta-ganha": "{mapped/color/surface/page}"
+  },
+  "mapped/color/border/component/main-navigation/top": {
+    "sportradar": "{mapped/color/border/default}",
+    "bethog": "{mapped/color/surface/card-default}",
+    "aposta-ganha": "{mapped/color/border/default}"
+  },
+  "mapped/color/border/component/modal": {
+    "sportradar": "{mapped/color/border/subtle}",
+    "bethog": "{mapped/color/border/subtle}",
+    "aposta-ganha": "{mapped/color/border/subtle}"
+  },
+  "mapped/color/border/component/notification/info": {
+    "sportradar": "{mapped/color/border/info/default}",
+    "bethog": "{mapped/color/border/info/default}",
+    "aposta-ganha": "{mapped/color/border/info/default}"
+  },
+  "mapped/color/border/component/notification/negative": {
+    "sportradar": "{mapped/color/border/negative/default}",
+    "bethog": "{mapped/color/border/negative/default}",
+    "aposta-ganha": "{mapped/color/border/negative/default}"
+  },
+  "mapped/color/border/component/notification/positive": {
+    "sportradar": "{mapped/color/border/positive/default}",
+    "bethog": "{mapped/color/border/positive/default}",
+    "aposta-ganha": "{mapped/color/border/positive/default}"
+  },
+  "mapped/color/border/component/notification/warning": {
+    "sportradar": "{mapped/color/border/warning/default}",
+    "bethog": "{mapped/color/border/warning/default}",
+    "aposta-ganha": "{mapped/color/border/warning/default}"
+  },
+  "mapped/color/border/component/outcome/default": {
+    "sportradar": "{mapped/color/border/subtle}",
+    "bethog": "{mapped/color/surface/component/outcome/default}",
+    "aposta-ganha": "{mapped/color/border/subtle}"
+  },
+  "mapped/color/border/component/outcome/event-view/default": {
+    "sportradar": "{core/color/blue/100}",
+    "bethog": "{mapped/color/surface/component/outcome/default}",
+    "aposta-ganha": "{core/color/blue/100}"
+  },
+  "mapped/color/border/component/outcome/event-view/selected": {
+    "sportradar": "{core/color/white-30}",
+    "bethog": "{core/color/bethog-01}",
+    "aposta-ganha": "{core/color/brand-02}"
+  },
+  "mapped/color/border/component/outcome/event-view/special-value": {
+    "sportradar": "{mapped/color/border/page}",
+    "bethog": "{mapped/color/surface/overlay}",
+    "aposta-ganha": "{mapped/color/border/page}"
+  },
+  "mapped/color/border/component/outcome/selected": {
+    "sportradar": "{core/color/white-20}",
+    "bethog": "{core/color/bethog-01}",
+    "aposta-ganha": "{core/color/brand-02}"
+  },
+  "mapped/color/border/component/outcome/special-value": {
+    "sportradar": "{mapped/color/border/subtle}",
+    "bethog": "{mapped/color/surface/overlay}",
+    "aposta-ganha": "{mapped/color/border/subtle}"
+  },
+  "mapped/color/border/component/outright-card/level-1": {
+    "sportradar": "{mapped/color/border/default}",
+    "bethog": "{mapped/color/surface/card-default}",
+    "aposta-ganha": "{mapped/color/border/default}"
+  },
+  "mapped/color/border/component/outright-card/level-2": {
+    "sportradar": "{mapped/color/border/default}",
+    "bethog": "{mapped/color/surface/card-default}",
+    "aposta-ganha": "{mapped/color/border/default}"
+  },
+  "mapped/color/border/component/outright-card/level-3": {
+    "sportradar": "{mapped/color/border/default}",
+    "bethog": "{mapped/color/surface/secondary}",
+    "aposta-ganha": "{mapped/color/border/default}"
+  },
+  "mapped/color/border/component/prepared-betslip": {
+    "sportradar": "{mapped/color/border/default}",
+    "bethog": "{mapped/color/border/subtle}",
+    "aposta-ganha": "{mapped/color/border/default}"
+  },
+  "mapped/color/border/component/promoted-catalogue": {
+    "sportradar": "{mapped/color/border/subtle}",
+    "bethog": "{mapped/color/border/subtle}",
+    "aposta-ganha": "{mapped/color/border/subtle}"
+  },
+  "mapped/color/border/component/red-card/event-details": {
+    "sportradar": "{mapped/color/surface/component/event-card}",
+    "bethog": "{mapped/color/surface/component/event-card}",
+    "aposta-ganha": "{mapped/color/surface/component/event-card}"
+  },
+  "mapped/color/border/component/red-card/event-view": {
+    "sportradar": "{mapped/color/surface/page}",
+    "bethog": "{mapped/color/surface/page}",
+    "aposta-ganha": "{mapped/color/surface/page}"
+  },
+  "mapped/color/border/component/result/default": {
+    "sportradar": "{mapped/color/border/accent}",
+    "bethog": "{mapped/color/border/accent}",
+    "aposta-ganha": "{mapped/color/border/accent}"
+  },
+  "mapped/color/border/component/result/inverted": {
+    "sportradar": "{core/color/black}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/border/component/select-menu": {
+    "sportradar": "{mapped/color/border/subtle}",
+    "bethog": "{mapped/color/border/subtle}",
+    "aposta-ganha": "{mapped/color/border/subtle}"
+  },
+  "mapped/color/border/component/select/default": {
+    "sportradar": "{mapped/color/border/component/button/secondary}",
+    "bethog": "{mapped/color/surface/component/select/default}",
+    "aposta-ganha": "{mapped/color/border/component/button/secondary}"
+  },
+  "mapped/color/border/component/slide-control": {
+    "sportradar": "{mapped/color/border/page}",
+    "bethog": "{mapped/color/border/page}",
+    "aposta-ganha": "{mapped/color/border/page}"
+  },
+  "mapped/color/border/component/sport-live-select": {
+    "sportradar": "{mapped/color/border/subtle}",
+    "bethog": "{mapped/color/border/card-default}",
+    "aposta-ganha": "{mapped/color/border/subtle}"
+  },
+  "mapped/color/border/component/status/info": {
+    "sportradar": "{mapped/color/border/info/default}",
+    "bethog": "{mapped/color/border/info/default}",
+    "aposta-ganha": "{mapped/color/border/info/default}"
+  },
+  "mapped/color/border/component/status/negative": {
+    "sportradar": "{mapped/color/border/negative/default}",
+    "bethog": "{mapped/color/border/negative/default}",
+    "aposta-ganha": "{mapped/color/border/negative/default}"
+  },
+  "mapped/color/border/component/status/positive": {
+    "sportradar": "{mapped/color/border/positive/default}",
+    "bethog": "{mapped/color/border/positive/default}",
+    "aposta-ganha": "{mapped/color/border/positive/default}"
+  },
+  "mapped/color/border/component/status/subtle": {
+    "sportradar": "{mapped/color/surface/tertiary}",
+    "bethog": "{mapped/color/surface/tertiary}",
+    "aposta-ganha": "{mapped/color/surface/tertiary}"
+  },
+  "mapped/color/border/component/status/warning": {
+    "sportradar": "{mapped/color/border/warning/default}",
+    "bethog": "{mapped/color/border/warning/default}",
+    "aposta-ganha": "{mapped/color/border/warning/default}"
+  },
+  "mapped/color/border/component/tab-group/alternative": {
+    "sportradar": "{mapped/color/border/subtle}",
+    "bethog": "{mapped/color/surface/secondary}",
+    "aposta-ganha": "{mapped/color/border/subtle}"
+  },
+  "mapped/color/border/component/tab-group/default": {
+    "sportradar": "{core/color/white-0}",
+    "bethog": "{core/color/white-0}",
+    "aposta-ganha": "{core/color/white-0}"
+  },
+  "mapped/color/border/component/tab/ghost/selected": {
+    "sportradar": "{mapped/color/border/component/button/primary}",
+    "bethog": "{core/color/bethog-01}",
+    "aposta-ganha": "{mapped/color/border/component/button/primary}"
+  },
+  "mapped/color/border/component/tab/ghost/selected-subtle": {
+    "sportradar": "{mapped/color/border/component/button/secondary}",
+    "bethog": "{core/color/bethog-01}",
+    "aposta-ganha": "{mapped/color/border/component/button/secondary}"
+  },
+  "mapped/color/border/component/tab/outline/default": {
+    "sportradar": "{mapped/color/border/default}",
+    "bethog": "{mapped/color/border/default}",
+    "aposta-ganha": "{mapped/color/border/default}"
+  },
+  "mapped/color/border/component/tab/outline/selected": {
+    "sportradar": "{mapped/color/border/component/button/primary}",
+    "bethog": "{core/color/bethog-01}",
+    "aposta-ganha": "{mapped/color/border/component/button/primary}"
+  },
+  "mapped/color/border/component/tab/outline/selected-subtle": {
+    "sportradar": "{mapped/color/border/component/button/secondary}",
+    "bethog": "{core/color/bethog-01}",
+    "aposta-ganha": "{mapped/color/border/component/button/secondary}"
+  },
+  "mapped/color/border/component/tab/underline/selected": {
+    "sportradar": "{mapped/color/border/component/button/primary}",
+    "bethog": "{mapped/color/border/component/button/primary}",
+    "aposta-ganha": "{mapped/color/border/component/button/primary}"
+  },
+  "mapped/color/border/component/tab/underline/selected-subtle": {
+    "sportradar": "{core/color/blue/150}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/blue/150}"
+  },
+  "mapped/color/border/component/tag/accent": {
+    "sportradar": "{mapped/color/border/accent}",
+    "bethog": "{mapped/color/border/accent}",
+    "aposta-ganha": "{mapped/color/border/accent}"
+  },
+  "mapped/color/border/component/tag/accent-inverted": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/border/component/tag/default": {
+    "sportradar": "{mapped/color/border/default}",
+    "bethog": "{mapped/color/border/default}",
+    "aposta-ganha": "{mapped/color/border/default}"
+  },
+  "mapped/color/border/component/time-indicator/live": {
+    "sportradar": "{mapped/color/border/default}",
+    "bethog": "{mapped/color/border/subtle}",
+    "aposta-ganha": "{mapped/color/border/default}"
+  },
+  "mapped/color/border/component/time-indicator/prematch": {
+    "sportradar": "{mapped/color/border/default}",
+    "bethog": "{mapped/color/border/subtle}",
+    "aposta-ganha": "{mapped/color/border/default}"
+  },
+  "mapped/color/border/default": {
+    "sportradar": "{core/color/black-10}",
+    "bethog": "{core/color/white-20}",
+    "aposta-ganha": "{core/color/black-10}"
+  },
+  "mapped/color/border/info/default": {
+    "sportradar": "{core/color/light-blue/500}",
+    "bethog": "{core/color/light-blue/500}",
+    "aposta-ganha": "{core/color/light-blue/500}"
+  },
+  "mapped/color/border/info/inverted": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/border/negative/default": {
+    "sportradar": "{core/color/red/500}",
+    "bethog": "{core/color/red/500}",
+    "aposta-ganha": "{core/color/red/500}"
+  },
+  "mapped/color/border/negative/inverted": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/border/on-brand": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/border/page": {
+    "sportradar": "{core/color/blue/50}",
+    "bethog": "{core/color/neutral/950}",
+    "aposta-ganha": "{core/color/blue/50}"
+  },
+  "mapped/color/border/positive/default": {
+    "sportradar": "{core/color/green/500}",
+    "bethog": "{core/color/green/500}",
+    "aposta-ganha": "{core/color/green/500}"
+  },
+  "mapped/color/border/positive/inverted": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/border/subtle": {
+    "sportradar": "{core/color/black-5}",
+    "bethog": "{core/color/white-5}",
+    "aposta-ganha": "{core/color/black-5}"
+  },
+  "mapped/color/border/warning/default": {
+    "sportradar": "{core/color/light-yellow/500}",
+    "bethog": "{core/color/light-yellow/500}",
+    "aposta-ganha": "{core/color/light-yellow/500}"
+  },
+  "mapped/color/border/warning/inverted": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/border/white": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/icon/accent": {
+    "sportradar": "{core/color/brand-02}",
+    "bethog": "{core/color/brand-02}",
+    "aposta-ganha": "{core/color/brand-02}"
+  },
+  "mapped/color/icon/black": {
+    "sportradar": "{core/color/black}",
+    "bethog": "{core/color/black}",
+    "aposta-ganha": "{core/color/black}"
+  },
+  "mapped/color/icon/black-50": {
+    "sportradar": "{core/color/black-50}",
+    "bethog": "{core/color/black-50}",
+    "aposta-ganha": "{core/color/black-50}"
+  },
+  "mapped/color/icon/black-70": {
+    "sportradar": "{core/color/black-70}",
+    "bethog": "{core/color/black-70}",
+    "aposta-ganha": "{core/color/black-70}"
+  },
+  "mapped/color/icon/component/az-sidebar/selected": {
+    "sportradar": "{mapped/color/icon/accent}",
+    "bethog": "{mapped/color/icon/accent}",
+    "aposta-ganha": "{mapped/color/icon/accent}"
+  },
+  "mapped/color/icon/component/betslip-compact-d": {
+    "sportradar": "{mapped/color/text/on-brand/primary}",
+    "bethog": "{mapped/color/icon/on-primary/primary}",
+    "aposta-ganha": "{mapped/color/text/on-brand/primary}"
+  },
+  "mapped/color/icon/component/betslip/info-accent": {
+    "sportradar": "{mapped/color/icon/accent}",
+    "bethog": "{mapped/color/icon/accent}",
+    "aposta-ganha": "{mapped/color/icon/accent}"
+  },
+  "mapped/color/icon/component/button/payin": {
+    "sportradar": "{mapped/color/icon/on-primary/primary}",
+    "bethog": "{mapped/color/icon/on-primary/primary}",
+    "aposta-ganha": "{mapped/color/icon/on-primary/primary}"
+  },
+  "mapped/color/icon/component/button/payin-disabled": {
+    "sportradar": "{mapped/color/icon/on-primary/disabled}",
+    "bethog": "{mapped/color/icon/on-primary/disabled}",
+    "aposta-ganha": "{mapped/color/icon/on-primary/disabled}"
+  },
+  "mapped/color/icon/component/button/selected": {
+    "sportradar": "{mapped/color/icon/on-primary/primary}",
+    "bethog": "{mapped/color/icon/primary}",
+    "aposta-ganha": "{mapped/color/icon/on-primary/primary}"
+  },
+  "mapped/color/icon/component/button/selected-ghost": {
+    "sportradar": "{mapped/color/icon/accent}",
+    "bethog": "{mapped/color/icon/accent}",
+    "aposta-ganha": "{mapped/color/icon/accent}"
+  },
+  "mapped/color/icon/component/global-search/default": {
+    "sportradar": "{mapped/color/icon/primary}",
+    "bethog": "{mapped/color/icon/primary}",
+    "aposta-ganha": "{mapped/color/icon/primary}"
+  },
+  "mapped/color/icon/component/global-search/placeholder": {
+    "sportradar": "{mapped/color/icon/secondary}",
+    "bethog": "{mapped/color/icon/secondary}",
+    "aposta-ganha": "{mapped/color/icon/secondary}"
+  },
+  "mapped/color/icon/component/horizontal-nav/action/active": {
+    "sportradar": "{mapped/color/icon/on-primary/primary}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{mapped/color/icon/on-primary/primary}"
+  },
+  "mapped/color/icon/component/horizontal-nav/action/default": {
+    "sportradar": "{mapped/color/icon/primary}",
+    "bethog": "{mapped/color/icon/primary}",
+    "aposta-ganha": "{mapped/color/icon/primary}"
+  },
+  "mapped/color/icon/component/input/default": {
+    "sportradar": "{mapped/color/icon/secondary}",
+    "bethog": "{mapped/color/icon/secondary}",
+    "aposta-ganha": "{mapped/color/icon/secondary}"
+  },
+  "mapped/color/icon/component/input/disabled": {
+    "sportradar": "{mapped/color/icon/disabled}",
+    "bethog": "{mapped/color/icon/disabled}",
+    "aposta-ganha": "{mapped/color/icon/disabled}"
+  },
+  "mapped/color/icon/component/notification/info": {
+    "sportradar": "{mapped/color/icon/info/inverted}",
+    "bethog": "{mapped/color/icon/info/inverted}",
+    "aposta-ganha": "{mapped/color/icon/info/inverted}"
+  },
+  "mapped/color/icon/component/notification/negative": {
+    "sportradar": "{mapped/color/icon/negative/inverted}",
+    "bethog": "{mapped/color/icon/negative/inverted}",
+    "aposta-ganha": "{mapped/color/icon/negative/inverted}"
+  },
+  "mapped/color/icon/component/notification/positive": {
+    "sportradar": "{mapped/color/icon/positive/inverted}",
+    "bethog": "{mapped/color/icon/positive/inverted}",
+    "aposta-ganha": "{mapped/color/icon/positive/inverted}"
+  },
+  "mapped/color/icon/component/notification/warning": {
+    "sportradar": "{mapped/color/icon/warning/inverted}",
+    "bethog": "{mapped/color/icon/warning/inverted}",
+    "aposta-ganha": "{mapped/color/icon/warning/inverted}"
+  },
+  "mapped/color/icon/component/outcome/disabled": {
+    "sportradar": "{mapped/color/icon/disabled}",
+    "bethog": "{mapped/color/icon/disabled}",
+    "aposta-ganha": "{mapped/color/icon/disabled}"
+  },
+  "mapped/color/icon/component/outcome/odds/disabled": {
+    "sportradar": "{mapped/color/icon/disabled}",
+    "bethog": "{mapped/color/icon/disabled}",
+    "aposta-ganha": "{mapped/color/icon/disabled}"
+  },
+  "mapped/color/icon/component/promo-header": {
+    "sportradar": "{mapped/color/icon/accent}",
+    "bethog": "{mapped/color/icon/accent}",
+    "aposta-ganha": "{mapped/color/icon/accent}"
+  },
+  "mapped/color/icon/component/quick-link-on-sport": {
+    "sportradar": "{mapped/color/text/white}",
+    "bethog": "{mapped/color/text/white}",
+    "aposta-ganha": "{mapped/color/text/white}"
+  },
+  "mapped/color/icon/component/quick_link": {
+    "sportradar": "{mapped/color/text/primary}",
+    "bethog": "{mapped/color/text/primary}",
+    "aposta-ganha": "{mapped/color/text/primary}"
+  },
+  "mapped/color/icon/component/select/default": {
+    "sportradar": "{mapped/color/icon/secondary}",
+    "bethog": "{mapped/color/icon/secondary}",
+    "aposta-ganha": "{mapped/color/icon/secondary}"
+  },
+  "mapped/color/icon/component/select/disabled": {
+    "sportradar": "{mapped/color/icon/disabled}",
+    "bethog": "{mapped/color/icon/disabled}",
+    "aposta-ganha": "{mapped/color/icon/disabled}"
+  },
+  "mapped/color/icon/component/tab/ghost/default": {
+    "sportradar": "{mapped/color/icon/primary}",
+    "bethog": "{mapped/color/icon/primary}",
+    "aposta-ganha": "{mapped/color/icon/primary}"
+  },
+  "mapped/color/icon/component/tab/ghost/disabled": {
+    "sportradar": "{mapped/color/text/disabled}",
+    "bethog": "{mapped/color/text/disabled}",
+    "aposta-ganha": "{mapped/color/text/disabled}"
+  },
+  "mapped/color/icon/component/tab/ghost/selected": {
+    "sportradar": "{mapped/color/icon/on-primary/primary}",
+    "bethog": "{mapped/color/icon/on-primary/primary}",
+    "aposta-ganha": "{mapped/color/icon/on-primary/primary}"
+  },
+  "mapped/color/icon/component/tab/ghost/selected-subtle": {
+    "sportradar": "{mapped/color/text/primary}",
+    "bethog": "{mapped/color/text/primary}",
+    "aposta-ganha": "{mapped/color/text/primary}"
+  },
+  "mapped/color/icon/component/tab/outline/default": {
+    "sportradar": "{mapped/color/icon/primary}",
+    "bethog": "{mapped/color/icon/primary}",
+    "aposta-ganha": "{mapped/color/icon/primary}"
+  },
+  "mapped/color/icon/component/tab/outline/disabled": {
+    "sportradar": "{mapped/color/icon/disabled}",
+    "bethog": "{mapped/color/icon/disabled}",
+    "aposta-ganha": "{mapped/color/icon/disabled}"
+  },
+  "mapped/color/icon/component/tab/outline/selected": {
+    "sportradar": "{mapped/color/icon/on-primary/primary}",
+    "bethog": "{mapped/color/icon/on-primary/primary}",
+    "aposta-ganha": "{mapped/color/icon/on-primary/primary}"
+  },
+  "mapped/color/icon/component/tab/outline/selected-subtle": {
+    "sportradar": "{mapped/color/icon/primary}",
+    "bethog": "{mapped/color/icon/primary}",
+    "aposta-ganha": "{mapped/color/icon/primary}"
+  },
+  "mapped/color/icon/component/time-indicator/live": {
+    "sportradar": "{mapped/color/icon/accent}",
+    "bethog": "{core/color/brand-02}",
+    "aposta-ganha": "{mapped/color/icon/accent}"
+  },
+  "mapped/color/icon/disabled": {
+    "sportradar": "{core/color/neutral/1100-50}",
+    "bethog": "{core/color/neutral/00-50}",
+    "aposta-ganha": "{core/color/neutral/1100-50}"
+  },
+  "mapped/color/icon/info/default": {
+    "sportradar": "{core/color/light-blue/500}",
+    "bethog": "{core/color/light-blue/500}",
+    "aposta-ganha": "{core/color/light-blue/500}"
+  },
+  "mapped/color/icon/info/inverted": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/icon/info/on-inverted": {
+    "sportradar": "{core/color/light-blue/500}",
+    "bethog": "{core/color/light-blue/500}",
+    "aposta-ganha": "{core/color/light-blue/500}"
+  },
+  "mapped/color/icon/inverted/disabled": {
+    "sportradar": "{core/color/neutral/00-50}",
+    "bethog": "{core/color/neutral/1100-50}",
+    "aposta-ganha": "{core/color/neutral/00-50}"
+  },
+  "mapped/color/icon/inverted/primary": {
+    "sportradar": "{core/color/neutral/00}",
+    "bethog": "{core/color/neutral/1100}",
+    "aposta-ganha": "{core/color/neutral/00}"
+  },
+  "mapped/color/icon/inverted/secondary": {
+    "sportradar": "{core/color/neutral/00-70}",
+    "bethog": "{core/color/neutral/1100-70}",
+    "aposta-ganha": "{core/color/neutral/00-70}"
+  },
+  "mapped/color/icon/negative/default": {
+    "sportradar": "{core/color/red/500}",
+    "bethog": "{core/color/red/500}",
+    "aposta-ganha": "{core/color/red/500}"
+  },
+  "mapped/color/icon/negative/inverted": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/icon/negative/on-inverted": {
+    "sportradar": "{core/color/red/500}",
+    "bethog": "{core/color/red/500}",
+    "aposta-ganha": "{core/color/red/500}"
+  },
+  "mapped/color/icon/on-brand/default": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/icon/on-brand/disabled": {
+    "sportradar": "{core/color/white-50}",
+    "bethog": "{core/color/white-50}",
+    "aposta-ganha": "{core/color/white-50}"
+  },
+  "mapped/color/icon/on-brand/inverted": {
+    "sportradar": "{core/color/brand-01}",
+    "bethog": "{core/color/brand-01}",
+    "aposta-ganha": "{core/color/brand-01}"
+  },
+  "mapped/color/icon/on-brand/inverted-disabled": {
+    "sportradar": "{core/color/black-50}",
+    "bethog": "{core/color/black-50}",
+    "aposta-ganha": "{core/color/black-50}"
+  },
+  "mapped/color/icon/on-brand/primary": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/icon/on-brand/secondary": {
+    "sportradar": "{core/color/white-70}",
+    "bethog": "{core/color/white-70}",
+    "aposta-ganha": "{core/color/white-70}"
+  },
+  "mapped/color/icon/on-primary/disabled": {
+    "sportradar": "{core/color/white-50}",
+    "bethog": "{core/color/black-50}",
+    "aposta-ganha": "{core/color/white-50}"
+  },
+  "mapped/color/icon/on-primary/primary": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/black}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/icon/on-primary/secondary": {
+    "sportradar": "{core/color/white-70}",
+    "bethog": "{core/color/black-70}",
+    "aposta-ganha": "{core/color/white-70}"
+  },
+  "mapped/color/icon/positive/default": {
+    "sportradar": "{core/color/green/500}",
+    "bethog": "{core/color/green/500}",
+    "aposta-ganha": "{core/color/green/500}"
+  },
+  "mapped/color/icon/positive/inverted": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/black}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/icon/positive/on-inverted": {
+    "sportradar": "{core/color/black}",
+    "bethog": "{core/color/black}",
+    "aposta-ganha": "{core/color/black}"
+  },
+  "mapped/color/icon/primary": {
+    "sportradar": "{core/color/neutral/1100}",
+    "bethog": "{core/color/neutral/00}",
+    "aposta-ganha": "{core/color/neutral/1100}"
+  },
+  "mapped/color/icon/secondary": {
+    "sportradar": "{core/color/neutral/1100-70}",
+    "bethog": "{core/color/neutral/00-70}",
+    "aposta-ganha": "{core/color/neutral/1100-70}"
+  },
+  "mapped/color/icon/warning/default": {
+    "sportradar": "{core/color/light-yellow/500}",
+    "bethog": "{core/color/light-yellow/500}",
+    "aposta-ganha": "{core/color/light-yellow/500}"
+  },
+  "mapped/color/icon/warning/inverted": {
+    "sportradar": "{core/color/black}",
+    "bethog": "{core/color/black}",
+    "aposta-ganha": "{core/color/black}"
+  },
+  "mapped/color/icon/warning/on-inverted": {
+    "sportradar": "{core/color/black}",
+    "bethog": "{core/color/black}",
+    "aposta-ganha": "{core/color/black}"
+  },
+  "mapped/color/icon/white": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/icon/white-50": {
+    "sportradar": "{core/color/white-50}",
+    "bethog": "{core/color/white-50}",
+    "aposta-ganha": "{core/color/white-50}"
+  },
+  "mapped/color/icon/white-70": {
+    "sportradar": "{core/color/white-70}",
+    "bethog": "{core/color/white-70}",
+    "aposta-ganha": "{core/color/white-70}"
+  },
+  "mapped/color/state/disabled": {
+    "sportradar": "{core/color/black-10}",
+    "bethog": "{core/color/black-20}",
+    "aposta-ganha": "{core/color/black-10}"
+  },
+  "mapped/color/state/hover": {
+    "sportradar": "{core/color/black-5}",
+    "bethog": "{core/color/white-5}",
+    "aposta-ganha": "{core/color/black-5}"
+  },
+  "mapped/color/state/pressed": {
+    "sportradar": "{core/color/black-10}",
+    "bethog": "{core/color/black-10}",
+    "aposta-ganha": "{core/color/black-10}"
+  },
+  "mapped/color/surface/accent": {
+    "sportradar": "{core/color/brand-02}",
+    "bethog": "{core/color/brand-02}",
+    "aposta-ganha": "{core/color/brand-02}"
+  },
+  "mapped/color/surface/brand": {
+    "sportradar": "{core/color/brand-01}",
+    "bethog": "{core/color/brand-01}",
+    "aposta-ganha": "{core/color/brand-01}"
+  },
+  "mapped/color/surface/card-default": {
+    "sportradar": "{core/color/neutral/00}",
+    "bethog": "{core/color/neutral/950}",
+    "aposta-ganha": "{core/color/neutral/00}"
+  },
+  "mapped/color/surface/card-default-transparent": {
+    "sportradar": "{core/color/neutral/00-00}",
+    "bethog": "{core/color/neutral/950-0}",
+    "aposta-ganha": "{core/color/neutral/00-00}"
+  },
+  "mapped/color/surface/component/az-list/bottom-sheet": {
+    "sportradar": "{mapped/color/surface/card-default}",
+    "bethog": "{mapped/color/surface/component/bottom-sheet}",
+    "aposta-ganha": "{mapped/color/surface/card-default}"
+  },
+  "mapped/color/surface/component/az-list/list-sidebar": {
+    "sportradar": "{mapped/color/surface/card-default}",
+    "bethog": "{mapped/color/surface/card-default}",
+    "aposta-ganha": "{mapped/color/surface/card-default}"
+  },
+  "mapped/color/surface/component/az-list/menu/level-1": {
+    "sportradar": "{mapped/color/surface/card-default}",
+    "bethog": "{core/color/neutral/850}",
+    "aposta-ganha": "{mapped/color/surface/card-default}"
+  },
+  "mapped/color/surface/component/az-list/menu/level-2": {
+    "sportradar": "{mapped/color/surface/secondary}",
+    "bethog": "{core/color/neutral/900}",
+    "aposta-ganha": "{mapped/color/surface/secondary}"
+  },
+  "mapped/color/surface/component/az-list/menu/level-3": {
+    "sportradar": "{mapped/color/surface/card-default}",
+    "bethog": "{core/color/neutral/950}",
+    "aposta-ganha": "{mapped/color/surface/card-default}"
+  },
+  "mapped/color/surface/component/az-list/time-card": {
+    "sportradar": "{mapped/color/surface/card-default}",
+    "bethog": "{mapped/color/surface/card-default}",
+    "aposta-ganha": "{mapped/color/surface/card-default}"
+  },
+  "mapped/color/surface/component/bet-details/actionable": {
+    "sportradar": "{mapped/color/surface/card-default}",
+    "bethog": "{core/color/neutral/900}",
+    "aposta-ganha": "{mapped/color/surface/card-default}"
+  },
+  "mapped/color/surface/component/bet-details/modal": {
+    "sportradar": "{mapped/color/surface/page}",
+    "bethog": "{mapped/color/surface/card-default}",
+    "aposta-ganha": "{mapped/color/surface/page}"
+  },
+  "mapped/color/surface/component/bet-details/read-only": {
+    "sportradar": "{mapped/color/surface/card-default}",
+    "bethog": "{core/color/neutral/900}",
+    "aposta-ganha": "{mapped/color/surface/card-default}"
+  },
+  "mapped/color/surface/component/betslip-compact-d": {
+    "sportradar": "{mapped/color/surface/accent}",
+    "bethog": "{mapped/color/surface/accent}",
+    "aposta-ganha": "{mapped/color/surface/brand}"
+  },
+  "mapped/color/surface/component/betslip-compact-m": {
+    "sportradar": "{mapped/color/surface/component/main-navigation/bottom}",
+    "bethog": "{mapped/color/surface/accent}",
+    "aposta-ganha": "{mapped/color/surface/brand}"
+  },
+  "mapped/color/surface/component/betslip-compact-m-inverted": {
+    "sportradar": "{mapped/color/surface/accent}",
+    "bethog": "{mapped/color/surface/card-default}",
+    "aposta-ganha": "{mapped/color/surface/on-brand}"
+  },
+  "mapped/color/surface/component/bottom-sheet": {
+    "sportradar": "{mapped/color/surface/card-default}",
+    "bethog": "{core/color/neutral/900}",
+    "aposta-ganha": "{mapped/color/surface/card-default}"
+  },
+  "mapped/color/surface/component/button/brand": {
+    "sportradar": "{core/color/brand-01}",
+    "bethog": "{core/color/brand-01}",
+    "aposta-ganha": "{core/color/brand-01}"
+  },
+  "mapped/color/surface/component/button/favourite": {
+    "sportradar": "{mapped/color/surface/card-default}",
+    "bethog": "{mapped/color/surface/component/button/secondary}",
+    "aposta-ganha": "{mapped/color/surface/card-default}"
+  },
+  "mapped/color/surface/component/button/payin": {
+    "sportradar": "{mapped/color/surface/accent}",
+    "bethog": "{mapped/color/surface/accent}",
+    "aposta-ganha": "{mapped/color/surface/brand}"
+  },
+  "mapped/color/surface/component/button/primary": {
+    "sportradar": "{core/color/brand-02}",
+    "bethog": "{core/color/brand-02}",
+    "aposta-ganha": "{core/color/brand-02}"
+  },
+  "mapped/color/surface/component/button/quick-link": {
+    "sportradar": "{mapped/color/surface/card-default}",
+    "bethog": "{core/color/purple-600}",
+    "aposta-ganha": "{mapped/color/surface/card-default}"
+  },
+  "mapped/color/surface/component/button/secondary": {
+    "sportradar": "{mapped/color/surface/secondary}",
+    "bethog": "{core/color/white-10}",
+    "aposta-ganha": "{mapped/color/surface/secondary}"
+  },
+  "mapped/color/surface/component/button/selected": {
+    "sportradar": "{mapped/color/surface/component/button/primary}",
+    "bethog": "{core/color/bethog-02}",
+    "aposta-ganha": "{mapped/color/surface/component/button/primary}"
+  },
+  "mapped/color/surface/component/event-card": {
+    "sportradar": "{mapped/color/surface/card-default}",
+    "bethog": "{mapped/color/surface/card-default}",
+    "aposta-ganha": "{mapped/color/surface/card-default}"
+  },
+  "mapped/color/surface/component/event-market": {
+    "sportradar": "{mapped/color/surface/card-default}",
+    "bethog": "{mapped/color/surface/card-default}",
+    "aposta-ganha": "{mapped/color/surface/card-default}"
+  },
+  "mapped/color/surface/component/global-search": {
+    "sportradar": "{mapped/color/surface/component/input}",
+    "bethog": "{mapped/color/surface/component/input}",
+    "aposta-ganha": "{mapped/color/surface/component/input}"
+  },
+  "mapped/color/surface/component/header": {
+    "sportradar": "{mapped/color/surface/brand}",
+    "bethog": "{mapped/color/surface/brand}",
+    "aposta-ganha": "{mapped/color/surface/brand}"
+  },
+  "mapped/color/surface/component/highlighed-event": {
+    "sportradar": "{mapped/color/surface/card-default}",
+    "bethog": "{mapped/color/surface/card-default}",
+    "aposta-ganha": "{mapped/color/surface/card-default}"
+  },
+  "mapped/color/surface/component/horizontal-nav/action/active": {
+    "sportradar": "{mapped/color/surface/component/button/primary}",
+    "bethog": "{core/color/bethog-03}",
+    "aposta-ganha": "{mapped/color/surface/component/button/primary}"
+  },
+  "mapped/color/surface/component/horizontal-nav/action/default": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/purple-600}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/surface/component/input": {
+    "sportradar": "{core/color/blue/100}",
+    "bethog": "{core/color/neutral/1000}",
+    "aposta-ganha": "{core/color/blue/100}"
+  },
+  "mapped/color/surface/component/main-navigation/bottom": {
+    "sportradar": "{mapped/color/surface/card-default}",
+    "bethog": "{mapped/color/surface/card-default}",
+    "aposta-ganha": "{mapped/color/surface/card-default}"
+  },
+  "mapped/color/surface/component/main-navigation/top": {
+    "sportradar": "{mapped/color/surface/card-default}",
+    "bethog": "{mapped/color/surface/card-default}",
+    "aposta-ganha": "{mapped/color/surface/card-default}"
+  },
+  "mapped/color/surface/component/modal": {
+    "sportradar": "{mapped/color/surface/card-default}",
+    "bethog": "{mapped/color/surface/card-default}",
+    "aposta-ganha": "{mapped/color/surface/card-default}"
+  },
+  "mapped/color/surface/component/notification/info": {
+    "sportradar": "{mapped/color/surface/info/default}",
+    "bethog": "{mapped/color/surface/info/default}",
+    "aposta-ganha": "{mapped/color/surface/info/default}"
+  },
+  "mapped/color/surface/component/notification/negative": {
+    "sportradar": "{mapped/color/surface/negative/default}",
+    "bethog": "{mapped/color/surface/negative/default}",
+    "aposta-ganha": "{mapped/color/surface/negative/default}"
+  },
+  "mapped/color/surface/component/notification/positive": {
+    "sportradar": "{mapped/color/surface/positive/default}",
+    "bethog": "{mapped/color/surface/positive/default}",
+    "aposta-ganha": "{mapped/color/surface/positive/default}"
+  },
+  "mapped/color/surface/component/notification/warning": {
+    "sportradar": "{mapped/color/surface/warning/default}",
+    "bethog": "{mapped/color/surface/warning/default}",
+    "aposta-ganha": "{mapped/color/surface/warning/default}"
+  },
+  "mapped/color/surface/component/odds-change/down": {
+    "sportradar": "{mapped/color/surface/negative/default}",
+    "bethog": "{mapped/color/surface/negative/default}",
+    "aposta-ganha": "{mapped/color/surface/negative/default}"
+  },
+  "mapped/color/surface/component/odds-change/down-selected": {
+    "sportradar": "{mapped/color/surface/on-brand}",
+    "bethog": "{mapped/color/surface/on-brand}",
+    "aposta-ganha": "{mapped/color/surface/on-brand}"
+  },
+  "mapped/color/surface/component/odds-change/up": {
+    "sportradar": "{mapped/color/surface/positive/default}",
+    "bethog": "{mapped/color/surface/positive/default}",
+    "aposta-ganha": "{mapped/color/surface/positive/default}"
+  },
+  "mapped/color/surface/component/odds-change/up-selected": {
+    "sportradar": "{mapped/color/surface/on-brand}",
+    "bethog": "{mapped/color/surface/on-brand}",
+    "aposta-ganha": "{mapped/color/surface/on-brand}"
+  },
+  "mapped/color/surface/component/outcome/default": {
+    "sportradar": "{mapped/color/surface/secondary}",
+    "bethog": "{core/color/neutral/850}",
+    "aposta-ganha": "{mapped/color/surface/secondary}"
+  },
+  "mapped/color/surface/component/outcome/event-view/default": {
+    "sportradar": "{mapped/color/surface/secondary}",
+    "bethog": "{core/color/neutral/850}",
+    "aposta-ganha": "{mapped/color/surface/secondary}"
+  },
+  "mapped/color/surface/component/outcome/event-view/selected": {
+    "sportradar": "{core/color/brand-01}",
+    "bethog": "{core/color/bethog-03}",
+    "aposta-ganha": "{core/color/brand-02}"
+  },
+  "mapped/color/surface/component/outcome/event-view/special-value": {
+    "sportradar": "{mapped/color/surface/page}",
+    "bethog": "{mapped/color/surface/overlay}",
+    "aposta-ganha": "{mapped/color/surface/page}"
+  },
+  "mapped/color/surface/component/outcome/selected": {
+    "sportradar": "{core/color/brand-01}",
+    "bethog": "{core/color/bethog-03}",
+    "aposta-ganha": "{core/color/brand-02}"
+  },
+  "mapped/color/surface/component/outcome/special-value": {
+    "sportradar": "{core/color/blue/100}",
+    "bethog": "{mapped/color/surface/overlay}",
+    "aposta-ganha": "{core/color/blue/100}"
+  },
+  "mapped/color/surface/component/outright-card/level-1": {
+    "sportradar": "{mapped/color/surface/card-default}",
+    "bethog": "{mapped/color/surface/card-default}",
+    "aposta-ganha": "{mapped/color/surface/card-default}"
+  },
+  "mapped/color/surface/component/outright-card/level-2": {
+    "sportradar": "{mapped/color/surface/card-default}",
+    "bethog": "{mapped/color/surface/card-default}",
+    "aposta-ganha": "{mapped/color/surface/card-default}"
+  },
+  "mapped/color/surface/component/outright-card/level-3": {
+    "sportradar": "{mapped/color/surface/secondary}",
+    "bethog": "{mapped/color/surface/secondary}",
+    "aposta-ganha": "{mapped/color/surface/secondary}"
+  },
+  "mapped/color/surface/component/prepared-betslip/card": {
+    "sportradar": "{mapped/color/surface/card-default}",
+    "bethog": "{mapped/color/surface/card-default}",
+    "aposta-ganha": "{mapped/color/surface/card-default}"
+  },
+  "mapped/color/surface/component/prepared-betslip/highlight-01": {
+    "sportradar": "{core/color/additional-01}",
+    "bethog": "{core/color/additional-01}",
+    "aposta-ganha": "{core/color/additional-01}"
+  },
+  "mapped/color/surface/component/prepared-betslip/highlight-02": {
+    "sportradar": "{core/color/additional-02}",
+    "bethog": "{core/color/additional-02}",
+    "aposta-ganha": "{core/color/additional-02}"
+  },
+  "mapped/color/surface/component/promoted-catalogue": {
+    "sportradar": "{mapped/color/surface/card-default}",
+    "bethog": "{mapped/color/surface/card-default}",
+    "aposta-ganha": "{mapped/color/surface/card-default}"
+  },
+  "mapped/color/surface/component/red-card": {
+    "sportradar": "{mapped/color/surface/negative/default}",
+    "bethog": "{mapped/color/surface/negative/default}",
+    "aposta-ganha": "{mapped/color/surface/negative/default}"
+  },
+  "mapped/color/surface/component/result/default": {
+    "sportradar": "{core/color/brand-02}",
+    "bethog": "{core/color/brand-02}",
+    "aposta-ganha": "{core/color/brand-02}"
+  },
+  "mapped/color/surface/component/result/inverted": {
+    "sportradar": "{core/color/black}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/surface/component/select-menu": {
+    "sportradar": "{mapped/color/surface/card-default}",
+    "bethog": "{mapped/color/surface/card-default}",
+    "aposta-ganha": "{mapped/color/surface/card-default}"
+  },
+  "mapped/color/surface/component/select/default": {
+    "sportradar": "{mapped/color/surface/component/button/secondary}",
+    "bethog": "{mapped/color/surface/component/button/secondary}",
+    "aposta-ganha": "{mapped/color/surface/component/button/secondary}"
+  },
+  "mapped/color/surface/component/slide-control": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{mapped/color/surface/page}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/surface/component/sport-select-live": {
+    "sportradar": "{mapped/color/surface/card-default}",
+    "bethog": "{mapped/color/surface/card-default}",
+    "aposta-ganha": "{mapped/color/surface/card-default}"
+  },
+  "mapped/color/surface/component/status/info": {
+    "sportradar": "{mapped/color/surface/info/default}",
+    "bethog": "{mapped/color/surface/info/default}",
+    "aposta-ganha": "{mapped/color/surface/info/default}"
+  },
+  "mapped/color/surface/component/status/negative": {
+    "sportradar": "{mapped/color/surface/negative/default}",
+    "bethog": "{mapped/color/surface/negative/default}",
+    "aposta-ganha": "{mapped/color/surface/negative/default}"
+  },
+  "mapped/color/surface/component/status/positive": {
+    "sportradar": "{mapped/color/surface/positive/default}",
+    "bethog": "{mapped/color/surface/positive/default}",
+    "aposta-ganha": "{mapped/color/surface/positive/default}"
+  },
+  "mapped/color/surface/component/status/subtle": {
+    "sportradar": "{mapped/color/surface/tertiary}",
+    "bethog": "{mapped/color/surface/tertiary}",
+    "aposta-ganha": "{mapped/color/surface/tertiary}"
+  },
+  "mapped/color/surface/component/status/warning": {
+    "sportradar": "{mapped/color/surface/warning/default}",
+    "bethog": "{mapped/color/surface/warning/default}",
+    "aposta-ganha": "{mapped/color/surface/warning/default}"
+  },
+  "mapped/color/surface/component/swipe-indicator/active": {
+    "sportradar": "{mapped/color/surface/accent}",
+    "bethog": "{mapped/color/surface/accent}",
+    "aposta-ganha": "{mapped/color/surface/accent}"
+  },
+  "mapped/color/surface/component/swipe-indicator/default": {
+    "sportradar": "{mapped/color/surface/tertiary}",
+    "bethog": "{core/color/neutral/850}",
+    "aposta-ganha": "{mapped/color/surface/tertiary}"
+  },
+  "mapped/color/surface/component/tab-group/alternative": {
+    "sportradar": "{mapped/color/surface/secondary}",
+    "bethog": "{mapped/color/surface/secondary}",
+    "aposta-ganha": "{mapped/color/surface/secondary}"
+  },
+  "mapped/color/surface/component/tab-group/default": {
+    "sportradar": "{mapped/color/surface/card-default}",
+    "bethog": "{mapped/color/surface/card-default}",
+    "aposta-ganha": "{mapped/color/surface/card-default}"
+  },
+  "mapped/color/surface/component/tab/ghost/selected": {
+    "sportradar": "{core/color/brand-02}",
+    "bethog": "{core/color/bethog-03}",
+    "aposta-ganha": "{core/color/brand-02}"
+  },
+  "mapped/color/surface/component/tab/ghost/selected-subtle": {
+    "sportradar": "{mapped/color/surface/tertiary}",
+    "bethog": "{core/color/bethog-03}",
+    "aposta-ganha": "{mapped/color/surface/tertiary}"
+  },
+  "mapped/color/surface/component/tab/outline/selected": {
+    "sportradar": "{core/color/brand-02}",
+    "bethog": "{core/color/bethog-03}",
+    "aposta-ganha": "{core/color/brand-02}"
+  },
+  "mapped/color/surface/component/tab/outline/selected-subtle": {
+    "sportradar": "{mapped/color/surface/tertiary}",
+    "bethog": "{core/color/bethog-03}",
+    "aposta-ganha": "{mapped/color/surface/tertiary}"
+  },
+  "mapped/color/surface/component/tag/accent": {
+    "sportradar": "{mapped/color/surface/accent}",
+    "bethog": "{mapped/color/surface/accent}",
+    "aposta-ganha": "{mapped/color/surface/accent}"
+  },
+  "mapped/color/surface/component/tag/accent-inverted": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/surface/component/tag/default": {
+    "sportradar": "{mapped/color/surface/secondary}",
+    "bethog": "{mapped/color/surface/secondary}",
+    "aposta-ganha": "{mapped/color/surface/secondary}"
+  },
+  "mapped/color/surface/component/time-indicator/live": {
+    "sportradar": "{mapped/color/surface/secondary}",
+    "bethog": "{mapped/color/surface/secondary}",
+    "aposta-ganha": "{mapped/color/surface/secondary}"
+  },
+  "mapped/color/surface/component/time-indicator/prematch": {
+    "sportradar": "{mapped/color/surface/secondary}",
+    "bethog": "{mapped/color/surface/secondary}",
+    "aposta-ganha": "{mapped/color/surface/secondary}"
+  },
+  "mapped/color/surface/component/yellow-card": {
+    "sportradar": "{core/color/yellow}",
+    "bethog": "{core/color/yellow}",
+    "aposta-ganha": "{core/color/yellow}"
+  },
+  "mapped/color/surface/info/default": {
+    "sportradar": "{core/color/light-blue/500}",
+    "bethog": "{core/color/light-blue/500}",
+    "aposta-ganha": "{core/color/light-blue/500}"
+  },
+  "mapped/color/surface/info/inverted": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/surface/inverted": {
+    "sportradar": "{core/color/black}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/black}"
+  },
+  "mapped/color/surface/negative/default": {
+    "sportradar": "{core/color/red/500}",
+    "bethog": "{core/color/red/500}",
+    "aposta-ganha": "{core/color/red/500}"
+  },
+  "mapped/color/surface/negative/inverted": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/surface/on-brand": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/surface/on-primary": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/surface/overlay": {
+    "sportradar": "{core/color/black-50}",
+    "bethog": "{core/color/black-50}",
+    "aposta-ganha": "{core/color/black-50}"
+  },
+  "mapped/color/surface/overlay-subtle": {
+    "sportradar": "{core/color/black-10}",
+    "bethog": "{core/color/white-10}",
+    "aposta-ganha": "{core/color/black-10}"
+  },
+  "mapped/color/surface/page": {
+    "sportradar": "{core/color/blue/50}",
+    "bethog": "{core/color/neutral/1000}",
+    "aposta-ganha": "{core/color/blue/50}"
+  },
+  "mapped/color/surface/page-transparent": {
+    "sportradar": "{core/color/blue/50-00}",
+    "bethog": "{core/color/neutral/1000-0}",
+    "aposta-ganha": "{core/color/blue/50-00}"
+  },
+  "mapped/color/surface/positive/default": {
+    "sportradar": "{core/color/green/500}",
+    "bethog": "{core/color/green/500}",
+    "aposta-ganha": "{core/color/green/500}"
+  },
+  "mapped/color/surface/positive/inverted": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/surface/secondary": {
+    "sportradar": "{core/color/neutral/50}",
+    "bethog": "{core/color/neutral/850}",
+    "aposta-ganha": "{core/color/neutral/50}"
+  },
+  "mapped/color/surface/sport/alpine-skiing/solid": {
+    "sportradar": "{core/color/sports/alppine-skiing}",
+    "bethog": "{core/color/sports/alppine-skiing}",
+    "aposta-ganha": "{core/color/sports/alppine-skiing}"
+  },
+  "mapped/color/surface/sport/alpine-skiing/transparent": {
+    "sportradar": "{core/color/sports/alppine-skiing-00}",
+    "bethog": "{core/color/sports/alppine-skiing-00}",
+    "aposta-ganha": "{core/color/sports/alppine-skiing-00}"
+  },
+  "mapped/color/surface/sport/american-football/solid": {
+    "sportradar": "{core/color/sports/american-football}",
+    "bethog": "{core/color/sports/american-football}",
+    "aposta-ganha": "{core/color/sports/american-football}"
+  },
+  "mapped/color/surface/sport/american-football/transparent": {
+    "sportradar": "{core/color/sports/american-football-00}",
+    "bethog": "{core/color/sports/american-football-00}",
+    "aposta-ganha": "{core/color/sports/american-football-00}"
+  },
+  "mapped/color/surface/sport/aussie-rules/solid": {
+    "sportradar": "{core/color/sports/aussie-rules}",
+    "bethog": "{core/color/sports/aussie-rules}",
+    "aposta-ganha": "{core/color/sports/aussie-rules}"
+  },
+  "mapped/color/surface/sport/aussie-rules/transparent": {
+    "sportradar": "{core/color/sports/aussie-rules-00}",
+    "bethog": "{core/color/sports/aussie-rules-00}",
+    "aposta-ganha": "{core/color/sports/aussie-rules-00}"
+  },
+  "mapped/color/surface/sport/badminton/solid": {
+    "sportradar": "{core/color/sports/badminton}",
+    "bethog": "{core/color/sports/badminton}",
+    "aposta-ganha": "{core/color/sports/badminton}"
+  },
+  "mapped/color/surface/sport/badminton/transparent": {
+    "sportradar": "{core/color/sports/badminton-00}",
+    "bethog": "{core/color/sports/badminton-00}",
+    "aposta-ganha": "{core/color/sports/badminton-00}"
+  },
+  "mapped/color/surface/sport/baseball/solid": {
+    "sportradar": "{core/color/sports/baseball}",
+    "bethog": "{core/color/sports/baseball}",
+    "aposta-ganha": "{core/color/sports/baseball}"
+  },
+  "mapped/color/surface/sport/baseball/transparent": {
+    "sportradar": "{core/color/sports/baseball-00}",
+    "bethog": "{core/color/sports/baseball-00}",
+    "aposta-ganha": "{core/color/sports/baseball-00}"
+  },
+  "mapped/color/surface/sport/basketball/solid": {
+    "sportradar": "{core/color/sports/basketball}",
+    "bethog": "{core/color/sports/basketball}",
+    "aposta-ganha": "{core/color/sports/basketball}"
+  },
+  "mapped/color/surface/sport/basketball/transparent": {
+    "sportradar": "{core/color/sports/basketball-00}",
+    "bethog": "{core/color/sports/basketball-00}",
+    "aposta-ganha": "{core/color/sports/basketball-00}"
+  },
+  "mapped/color/surface/sport/beach-volley/solid": {
+    "sportradar": "{core/color/sports/beach-volleyball}",
+    "bethog": "{core/color/sports/beach-volleyball}",
+    "aposta-ganha": "{core/color/sports/beach-volleyball}"
+  },
+  "mapped/color/surface/sport/beach-volley/transparent": {
+    "sportradar": "{core/color/sports/beach-volleyball-00}",
+    "bethog": "{core/color/sports/beach-volleyball-00}",
+    "aposta-ganha": "{core/color/sports/beach-volleyball-00}"
+  },
+  "mapped/color/surface/sport/bowling/solid": {
+    "sportradar": "{core/color/sports/bowling}",
+    "bethog": "{core/color/sports/bowling}",
+    "aposta-ganha": "{core/color/sports/bowling}"
+  },
+  "mapped/color/surface/sport/bowling/transparent": {
+    "sportradar": "{core/color/sports/bowling-00}",
+    "bethog": "{core/color/sports/bowling-00}",
+    "aposta-ganha": "{core/color/sports/bowling-00}"
+  },
+  "mapped/color/surface/sport/counter-strike/solid": {
+    "sportradar": "{core/color/sports/counter-strike}",
+    "bethog": "{core/color/sports/counter-strike}",
+    "aposta-ganha": "{core/color/sports/counter-strike}"
+  },
+  "mapped/color/surface/sport/counter-strike/transparent": {
+    "sportradar": "{core/color/sports/counter-strike-00}",
+    "bethog": "{core/color/sports/counter-strike-00}",
+    "aposta-ganha": "{core/color/sports/counter-strike-00}"
+  },
+  "mapped/color/surface/sport/cricket/solid": {
+    "sportradar": "{core/color/sports/cricket}",
+    "bethog": "{core/color/sports/cricket}",
+    "aposta-ganha": "{core/color/sports/cricket}"
+  },
+  "mapped/color/surface/sport/cricket/transparent": {
+    "sportradar": "{core/color/sports/cricket-00}",
+    "bethog": "{core/color/sports/cricket-00}",
+    "aposta-ganha": "{core/color/sports/cricket-00}"
+  },
+  "mapped/color/surface/sport/darts/solid": {
+    "sportradar": "{core/color/sports/darts}",
+    "bethog": "{core/color/sports/darts}",
+    "aposta-ganha": "{core/color/sports/darts}"
+  },
+  "mapped/color/surface/sport/darts/transparent": {
+    "sportradar": "{core/color/sports/darts-00}",
+    "bethog": "{core/color/sports/darts-00}",
+    "aposta-ganha": "{core/color/sports/darts-00}"
+  },
+  "mapped/color/surface/sport/default/solid": {
+    "sportradar": "{core/color/sports/other}",
+    "bethog": "{core/color/sports/other}",
+    "aposta-ganha": "{core/color/sports/other}"
+  },
+  "mapped/color/surface/sport/default/transparent": {
+    "sportradar": "{core/color/sports/other-00}",
+    "bethog": "{core/color/sports/other-00}",
+    "aposta-ganha": "{core/color/sports/other-00}"
+  },
+  "mapped/color/surface/sport/dota-2/solid": {
+    "sportradar": "{core/color/sports/dota-2}",
+    "bethog": "{core/color/sports/dota-2}",
+    "aposta-ganha": "{core/color/sports/dota-2}"
+  },
+  "mapped/color/surface/sport/dota-2/transparent": {
+    "sportradar": "{core/color/sports/dota-2-00}",
+    "bethog": "{core/color/sports/dota-2-00}",
+    "aposta-ganha": "{core/color/sports/dota-2-00}"
+  },
+  "mapped/color/surface/sport/ebasketball/solid": {
+    "sportradar": "{core/color/sports/ebasketball}",
+    "bethog": "{core/color/sports/ebasketball}",
+    "aposta-ganha": "{core/color/sports/ebasketball}"
+  },
+  "mapped/color/surface/sport/ebasketball/transparent": {
+    "sportradar": "{core/color/sports/ebasketball-00}",
+    "bethog": "{core/color/sports/ebasketball-00}",
+    "aposta-ganha": "{core/color/sports/ebasketball-00}"
+  },
+  "mapped/color/surface/sport/elce-hockey/solid": {
+    "sportradar": "{core/color/sports/elce-hockey}",
+    "bethog": "{core/color/sports/elce-hockey}",
+    "aposta-ganha": "{core/color/sports/elce-hockey}"
+  },
+  "mapped/color/surface/sport/elce-hockey/transparent": {
+    "sportradar": "{core/color/sports/elce-hockey-00}",
+    "bethog": "{core/color/sports/elce-hockey-00}",
+    "aposta-ganha": "{core/color/sports/elce-hockey-00}"
+  },
+  "mapped/color/surface/sport/esoccer/solid": {
+    "sportradar": "{core/color/sports/esoccer}",
+    "bethog": "{core/color/sports/esoccer}",
+    "aposta-ganha": "{core/color/sports/esoccer}"
+  },
+  "mapped/color/surface/sport/esoccer/transparent": {
+    "sportradar": "{core/color/sports/esoccer-00}",
+    "bethog": "{core/color/sports/esoccer-00}",
+    "aposta-ganha": "{core/color/sports/esoccer-00}"
+  },
+  "mapped/color/surface/sport/field-hockey/solid": {
+    "sportradar": "{core/color/sports/field-hockey}",
+    "bethog": "{core/color/sports/field-hockey}",
+    "aposta-ganha": "{core/color/sports/field-hockey}"
+  },
+  "mapped/color/surface/sport/field-hockey/transparent": {
+    "sportradar": "{core/color/sports/field-hockey-00}",
+    "bethog": "{core/color/sports/field-hockey-00}",
+    "aposta-ganha": "{core/color/sports/field-hockey-00}"
+  },
+  "mapped/color/surface/sport/formula-1/solid": {
+    "sportradar": "{core/color/sports/formula-1}",
+    "bethog": "{core/color/sports/formula-1}",
+    "aposta-ganha": "{core/color/sports/formula-1}"
+  },
+  "mapped/color/surface/sport/formula-1/transparent": {
+    "sportradar": "{core/color/sports/formula-1-00}",
+    "bethog": "{core/color/sports/formula-1-00}",
+    "aposta-ganha": "{core/color/sports/formula-1-00}"
+  },
+  "mapped/color/surface/sport/futsal/solid": {
+    "sportradar": "{core/color/sports/futsal}",
+    "bethog": "{core/color/sports/futsal}",
+    "aposta-ganha": "{core/color/sports/futsal}"
+  },
+  "mapped/color/surface/sport/futsal/transparent": {
+    "sportradar": "{core/color/sports/futsal-00}",
+    "bethog": "{core/color/sports/futsal-00}",
+    "aposta-ganha": "{core/color/sports/futsal-00}"
+  },
+  "mapped/color/surface/sport/golf/solid": {
+    "sportradar": "{core/color/sports/golf}",
+    "bethog": "{core/color/sports/golf}",
+    "aposta-ganha": "{core/color/sports/golf}"
+  },
+  "mapped/color/surface/sport/golf/transparent": {
+    "sportradar": "{core/color/sports/golf-00}",
+    "bethog": "{core/color/sports/golf-00}",
+    "aposta-ganha": "{core/color/sports/golf-00}"
+  },
+  "mapped/color/surface/sport/handball/solid": {
+    "sportradar": "{core/color/sports/handball}",
+    "bethog": "{core/color/sports/handball}",
+    "aposta-ganha": "{core/color/sports/handball}"
+  },
+  "mapped/color/surface/sport/handball/transparent": {
+    "sportradar": "{core/color/sports/handball-00}",
+    "bethog": "{core/color/sports/handball-00}",
+    "aposta-ganha": "{core/color/sports/handball-00}"
+  },
+  "mapped/color/surface/sport/ice-hockey/solid": {
+    "sportradar": "{core/color/sports/ice-hockey}",
+    "bethog": "{core/color/sports/ice-hockey}",
+    "aposta-ganha": "{core/color/sports/ice-hockey}"
+  },
+  "mapped/color/surface/sport/ice-hockey/transparent": {
+    "sportradar": "{core/color/sports/ice-hockey-00}",
+    "bethog": "{core/color/sports/ice-hockey-00}",
+    "aposta-ganha": "{core/color/sports/ice-hockey-00}"
+  },
+  "mapped/color/surface/sport/kabaddi/solid": {
+    "sportradar": "{core/color/sports/kabaddi}",
+    "bethog": "{core/color/sports/kabaddi}",
+    "aposta-ganha": "{core/color/sports/kabaddi}"
+  },
+  "mapped/color/surface/sport/kabaddi/transparent": {
+    "sportradar": "{core/color/sports/kabaddi-00}",
+    "bethog": "{core/color/sports/kabaddi-00}",
+    "aposta-ganha": "{core/color/sports/kabaddi-00}"
+  },
+  "mapped/color/surface/sport/league-of-legends/solid": {
+    "sportradar": "{core/color/sports/league-of-legends}",
+    "bethog": "{core/color/sports/league-of-legends}",
+    "aposta-ganha": "{core/color/sports/league-of-legends}"
+  },
+  "mapped/color/surface/sport/league-of-legends/transparent": {
+    "sportradar": "{core/color/sports/league-of-legends-00}",
+    "bethog": "{core/color/sports/league-of-legends-00}",
+    "aposta-ganha": "{core/color/sports/league-of-legends-00}"
+  },
+  "mapped/color/surface/sport/mma/solid": {
+    "sportradar": "{core/color/sports/mma}",
+    "bethog": "{core/color/sports/mma}",
+    "aposta-ganha": "{core/color/sports/mma}"
+  },
+  "mapped/color/surface/sport/mma/transparent": {
+    "sportradar": "{core/color/sports/mma-00}",
+    "bethog": "{core/color/sports/mma-00}",
+    "aposta-ganha": "{core/color/sports/mma-00}"
+  },
+  "mapped/color/surface/sport/moto-gp/solid": {
+    "sportradar": "{core/color/sports/moto-gp}",
+    "bethog": "{core/color/sports/moto-gp}",
+    "aposta-ganha": "{core/color/sports/moto-gp}"
+  },
+  "mapped/color/surface/sport/moto-gp/transparent": {
+    "sportradar": "{core/color/sports/moto-gp-00}",
+    "bethog": "{core/color/sports/moto-gp-00}",
+    "aposta-ganha": "{core/color/sports/moto-gp-00}"
+  },
+  "mapped/color/surface/sport/nascar/solid": {
+    "sportradar": "{core/color/sports/nascar}",
+    "bethog": "{core/color/sports/nascar}",
+    "aposta-ganha": "{core/color/sports/nascar}"
+  },
+  "mapped/color/surface/sport/nascar/transparent": {
+    "sportradar": "{core/color/sports/nascar-00}",
+    "bethog": "{core/color/sports/nascar-00}",
+    "aposta-ganha": "{core/color/sports/nascar-00}"
+  },
+  "mapped/color/surface/sport/rugby/solid": {
+    "sportradar": "{core/color/sports/rugby}",
+    "bethog": "{core/color/sports/rugby}",
+    "aposta-ganha": "{core/color/sports/rugby}"
+  },
+  "mapped/color/surface/sport/rugby/transparent": {
+    "sportradar": "{core/color/sports/rugby-00}",
+    "bethog": "{core/color/sports/rugby-00}",
+    "aposta-ganha": "{core/color/sports/rugby-00}"
+  },
+  "mapped/color/surface/sport/ski-jumping/solid": {
+    "sportradar": "{core/color/sports/ski-jumping}",
+    "bethog": "{core/color/sports/ski-jumping}",
+    "aposta-ganha": "{core/color/sports/ski-jumping}"
+  },
+  "mapped/color/surface/sport/ski-jumping/transparent": {
+    "sportradar": "{core/color/sports/ski-jumping-00}",
+    "bethog": "{core/color/sports/ski-jumping-00}",
+    "aposta-ganha": "{core/color/sports/ski-jumping-00}"
+  },
+  "mapped/color/surface/sport/snooker/solid": {
+    "sportradar": "{core/color/sports/snooker}",
+    "bethog": "{core/color/sports/snooker}",
+    "aposta-ganha": "{core/color/sports/snooker}"
+  },
+  "mapped/color/surface/sport/snooker/transparent": {
+    "sportradar": "{core/color/sports/snooker-00}",
+    "bethog": "{core/color/sports/snooker-00}",
+    "aposta-ganha": "{core/color/sports/snooker-00}"
+  },
+  "mapped/color/surface/sport/soccer/solid": {
+    "sportradar": "{core/color/sports/soccer}",
+    "bethog": "{core/color/sports/soccer}",
+    "aposta-ganha": "{core/color/sports/soccer}"
+  },
+  "mapped/color/surface/sport/soccer/transparent": {
+    "sportradar": "{core/color/sports/soccer-00}",
+    "bethog": "{core/color/sports/soccer-00}",
+    "aposta-ganha": "{core/color/sports/soccer-00}"
+  },
+  "mapped/color/surface/sport/squash/solid": {
+    "sportradar": "{core/color/sports/squash}",
+    "bethog": "{core/color/sports/squash}",
+    "aposta-ganha": "{core/color/sports/squash}"
+  },
+  "mapped/color/surface/sport/squash/transparent": {
+    "sportradar": "{core/color/sports/squash-00}",
+    "bethog": "{core/color/sports/squash-00}",
+    "aposta-ganha": "{core/color/sports/squash-00}"
+  },
+  "mapped/color/surface/sport/table-tennis/solid": {
+    "sportradar": "{core/color/sports/table-tennis}",
+    "bethog": "{core/color/sports/table-tennis}",
+    "aposta-ganha": "{core/color/sports/table-tennis}"
+  },
+  "mapped/color/surface/sport/table-tennis/transparent": {
+    "sportradar": "{core/color/sports/table-tennis-00}",
+    "bethog": "{core/color/sports/table-tennis-00}",
+    "aposta-ganha": "{core/color/sports/table-tennis-00}"
+  },
+  "mapped/color/surface/sport/tennis/solid": {
+    "sportradar": "{core/color/sports/tennis}",
+    "bethog": "{core/color/sports/tennis}",
+    "aposta-ganha": "{core/color/sports/tennis}"
+  },
+  "mapped/color/surface/sport/tennis/transparent": {
+    "sportradar": "{core/color/sports/tennis-00}",
+    "bethog": "{core/color/sports/tennis-00}",
+    "aposta-ganha": "{core/color/sports/tennis-00}"
+  },
+  "mapped/color/surface/sport/volleyball/solid": {
+    "sportradar": "{core/color/sports/volleyball}",
+    "bethog": "{core/color/sports/volleyball}",
+    "aposta-ganha": "{core/color/sports/volleyball}"
+  },
+  "mapped/color/surface/sport/volleyball/transparent": {
+    "sportradar": "{core/color/sports/volleyball-00}",
+    "bethog": "{core/color/sports/volleyball-00}",
+    "aposta-ganha": "{core/color/sports/volleyball-00}"
+  },
+  "mapped/color/surface/tertiary": {
+    "sportradar": "{core/color/blue/200}",
+    "bethog": "{core/color/neutral/750}",
+    "aposta-ganha": "{core/color/blue/200}"
+  },
+  "mapped/color/surface/warning/default": {
+    "sportradar": "{core/color/light-yellow/500}",
+    "bethog": "{core/color/light-yellow/500}",
+    "aposta-ganha": "{core/color/light-yellow/500}"
+  },
+  "mapped/color/surface/warning/inverted": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/surface/white": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/text/accent": {
+    "sportradar": "{core/color/brand-02}",
+    "bethog": "{core/color/brand-02}",
+    "aposta-ganha": "{core/color/brand-02}"
+  },
+  "mapped/color/text/black": {
+    "sportradar": "{core/color/black}",
+    "bethog": "{core/color/black}",
+    "aposta-ganha": "{core/color/black}"
+  },
+  "mapped/color/text/black-0": {
+    "sportradar": "{core/color/black-0}",
+    "bethog": "{core/color/black-0}",
+    "aposta-ganha": "{core/color/black-0}"
+  },
+  "mapped/color/text/black-50": {
+    "sportradar": "{core/color/black-50}",
+    "bethog": "{core/color/black-50}",
+    "aposta-ganha": "{core/color/black-50}"
+  },
+  "mapped/color/text/black-70": {
+    "sportradar": "{core/color/black-70}",
+    "bethog": "{core/color/black-70}",
+    "aposta-ganha": "{core/color/black-70}"
+  },
+  "mapped/color/text/component/az-sidebar/selected": {
+    "sportradar": "{mapped/color/text/accent}",
+    "bethog": "{mapped/color/text/accent}",
+    "aposta-ganha": "{mapped/color/text/accent}"
+  },
+  "mapped/color/text/component/betslip-compact-d/primary": {
+    "sportradar": "{mapped/color/text/on-brand/primary}",
+    "bethog": "{mapped/color/text/on-primary/primary}",
+    "aposta-ganha": "{mapped/color/text/on-brand/primary}"
+  },
+  "mapped/color/text/component/betslip-compact-d/secondary": {
+    "sportradar": "{mapped/color/text/on-brand/secondary}",
+    "bethog": "{mapped/color/text/on-primary/secondary}",
+    "aposta-ganha": "{mapped/color/text/on-brand/secondary}"
+  },
+  "mapped/color/text/component/betslip-compact-m/accent": {
+    "sportradar": "{mapped/color/text/accent}",
+    "bethog": "{mapped/color/text/black}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/text/component/betslip-compact-m/default": {
+    "sportradar": "{mapped/color/text/primary}",
+    "bethog": "{mapped/color/text/black}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/text/component/betslip-compact-m/on-inverted": {
+    "sportradar": "{mapped/color/text/white}",
+    "bethog": "{mapped/color/text/accent}",
+    "aposta-ganha": "{mapped/color/text/on-brand/inverted}"
+  },
+  "mapped/color/text/component/betslip-compact-m/secondary": {
+    "sportradar": "{mapped/color/text/secondary}",
+    "bethog": "{mapped/color/text/black-70}",
+    "aposta-ganha": "{core/color/white-70}"
+  },
+  "mapped/color/text/component/betslip-highlight": {
+    "sportradar": "{mapped/color/text/white}",
+    "bethog": "{mapped/color/text/white}",
+    "aposta-ganha": "{mapped/color/text/white}"
+  },
+  "mapped/color/text/component/betslip-odds/default": {
+    "sportradar": "{mapped/color/text/component/outcome/odds/default}",
+    "bethog": "{mapped/color/text/component/outcome/odds/default}",
+    "aposta-ganha": "{mapped/color/text/component/outcome/odds/default}"
+  },
+  "mapped/color/text/component/betslip-odds/disabled": {
+    "sportradar": "{mapped/color/text/disabled}",
+    "bethog": "{mapped/color/text/disabled}",
+    "aposta-ganha": "{mapped/color/text/disabled}"
+  },
+  "mapped/color/text/component/betslip/info-accent": {
+    "sportradar": "{mapped/color/text/accent}",
+    "bethog": "{mapped/color/text/accent}",
+    "aposta-ganha": "{mapped/color/text/accent}"
+  },
+  "mapped/color/text/component/button/payin": {
+    "sportradar": "{mapped/color/text/on-primary/primary}",
+    "bethog": "{mapped/color/text/on-primary/primary}",
+    "aposta-ganha": "{mapped/color/text/on-primary/primary}"
+  },
+  "mapped/color/text/component/button/payin-disabled": {
+    "sportradar": "{mapped/color/text/on-primary/disabled}",
+    "bethog": "{mapped/color/text/on-primary/disabled}",
+    "aposta-ganha": "{mapped/color/text/on-primary/disabled}"
+  },
+  "mapped/color/text/component/button/selected": {
+    "sportradar": "{mapped/color/text/on-primary/primary}",
+    "bethog": "{mapped/color/text/primary}",
+    "aposta-ganha": "{mapped/color/text/on-primary/primary}"
+  },
+  "mapped/color/text/component/button/selected-ghost": {
+    "sportradar": "{mapped/color/text/accent}",
+    "bethog": "{mapped/color/text/accent}",
+    "aposta-ganha": "{mapped/color/text/accent}"
+  },
+  "mapped/color/text/component/global-search/default": {
+    "sportradar": "{mapped/color/text/primary}",
+    "bethog": "{mapped/color/text/primary}",
+    "aposta-ganha": "{mapped/color/text/primary}"
+  },
+  "mapped/color/text/component/global-search/placeholder": {
+    "sportradar": "{mapped/color/text/secondary}",
+    "bethog": "{mapped/color/text/secondary}",
+    "aposta-ganha": "{mapped/color/text/secondary}"
+  },
+  "mapped/color/text/component/horizontal-nav/action/active": {
+    "sportradar": "{mapped/color/text/primary}",
+    "bethog": "{mapped/color/text/primary}",
+    "aposta-ganha": "{mapped/color/text/primary}"
+  },
+  "mapped/color/text/component/horizontal-nav/action/default": {
+    "sportradar": "{mapped/color/text/primary}",
+    "bethog": "{mapped/color/text/primary}",
+    "aposta-ganha": "{mapped/color/text/primary}"
+  },
+  "mapped/color/text/component/input/default": {
+    "sportradar": "{mapped/color/text/primary}",
+    "bethog": "{mapped/color/text/primary}",
+    "aposta-ganha": "{mapped/color/text/primary}"
+  },
+  "mapped/color/text/component/input/disabled": {
+    "sportradar": "{mapped/color/text/disabled}",
+    "bethog": "{mapped/color/text/disabled}",
+    "aposta-ganha": "{mapped/color/text/disabled}"
+  },
+  "mapped/color/text/component/input/secondary": {
+    "sportradar": "{mapped/color/text/secondary}",
+    "bethog": "{mapped/color/text/secondary}",
+    "aposta-ganha": "{mapped/color/text/secondary}"
+  },
+  "mapped/color/text/component/notification/info": {
+    "sportradar": "{mapped/color/text/info/inverted}",
+    "bethog": "{mapped/color/text/info/inverted}",
+    "aposta-ganha": "{mapped/color/text/info/inverted}"
+  },
+  "mapped/color/text/component/notification/negative": {
+    "sportradar": "{mapped/color/text/negative/inverted}",
+    "bethog": "{mapped/color/text/negative/inverted}",
+    "aposta-ganha": "{mapped/color/text/negative/inverted}"
+  },
+  "mapped/color/text/component/notification/positive": {
+    "sportradar": "{mapped/color/text/positive/inverted}",
+    "bethog": "{mapped/color/text/positive/inverted}",
+    "aposta-ganha": "{mapped/color/text/positive/inverted}"
+  },
+  "mapped/color/text/component/notification/warning": {
+    "sportradar": "{mapped/color/text/warning/inverted}",
+    "bethog": "{mapped/color/text/warning/inverted}",
+    "aposta-ganha": "{mapped/color/text/warning/inverted}"
+  },
+  "mapped/color/text/component/outcome/asian-accent": {
+    "sportradar": "{mapped/color/text/accent}",
+    "bethog": "{mapped/color/text/accent}",
+    "aposta-ganha": "{mapped/color/text/accent}"
+  },
+  "mapped/color/text/component/outcome/default": {
+    "sportradar": "{mapped/color/text/primary}",
+    "bethog": "{mapped/color/text/primary}",
+    "aposta-ganha": "{mapped/color/text/primary}"
+  },
+  "mapped/color/text/component/outcome/disabled": {
+    "sportradar": "{mapped/color/text/disabled}",
+    "bethog": "{mapped/color/text/disabled}",
+    "aposta-ganha": "{mapped/color/text/disabled}"
+  },
+  "mapped/color/text/component/outcome/odds/asian-accent": {
+    "sportradar": "{mapped/color/text/negative/default}",
+    "bethog": "{mapped/color/text/negative/default}",
+    "aposta-ganha": "{mapped/color/text/negative/default}"
+  },
+  "mapped/color/text/component/outcome/odds/default": {
+    "sportradar": "{mapped/color/text/primary}",
+    "bethog": "{core/color/additional-green}",
+    "aposta-ganha": "{mapped/color/text/primary}"
+  },
+  "mapped/color/text/component/outcome/odds/disabled": {
+    "sportradar": "{mapped/color/text/disabled}",
+    "bethog": "{mapped/color/text/disabled}",
+    "aposta-ganha": "{mapped/color/text/disabled}"
+  },
+  "mapped/color/text/component/outcome/odds/selected": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/text/component/outcome/selected": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/text/component/outcome/special-value": {
+    "sportradar": "{mapped/color/text/primary}",
+    "bethog": "{mapped/color/text/primary}",
+    "aposta-ganha": "{mapped/color/text/primary}"
+  },
+  "mapped/color/text/component/prepared-betslip/highlight": {
+    "sportradar": "{mapped/color/text/white}",
+    "bethog": "{mapped/color/text/white}",
+    "aposta-ganha": "{mapped/color/text/white}"
+  },
+  "mapped/color/text/component/promo-header": {
+    "sportradar": "{mapped/color/text/accent}",
+    "bethog": "{mapped/color/text/accent}",
+    "aposta-ganha": "{mapped/color/text/accent}"
+  },
+  "mapped/color/text/component/result/default": {
+    "sportradar": "{core/color/brand-02}",
+    "bethog": "{core/color/brand-02}",
+    "aposta-ganha": "{core/color/brand-02}"
+  },
+  "mapped/color/text/component/result/on-default": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/neutral/950}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/text/component/result/on-inverted": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/neutral/950}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/text/component/result/secondary": {
+    "sportradar": "{mapped/color/text/primary}",
+    "bethog": "{mapped/color/text/primary}",
+    "aposta-ganha": "{mapped/color/text/primary}"
+  },
+  "mapped/color/text/component/result/tertiary": {
+    "sportradar": "{mapped/color/text/secondary}",
+    "bethog": "{mapped/color/text/secondary}",
+    "aposta-ganha": "{mapped/color/text/secondary}"
+  },
+  "mapped/color/text/component/select/default": {
+    "sportradar": "{mapped/color/text/primary}",
+    "bethog": "{mapped/color/text/primary}",
+    "aposta-ganha": "{mapped/color/text/primary}"
+  },
+  "mapped/color/text/component/select/disabled": {
+    "sportradar": "{mapped/color/text/disabled}",
+    "bethog": "{mapped/color/text/disabled}",
+    "aposta-ganha": "{mapped/color/text/disabled}"
+  },
+  "mapped/color/text/component/status/info": {
+    "sportradar": "{mapped/color/text/info/inverted}",
+    "bethog": "{mapped/color/text/info/inverted}",
+    "aposta-ganha": "{mapped/color/text/info/inverted}"
+  },
+  "mapped/color/text/component/status/negative": {
+    "sportradar": "{mapped/color/text/negative/inverted}",
+    "bethog": "{mapped/color/text/negative/inverted}",
+    "aposta-ganha": "{mapped/color/text/negative/inverted}"
+  },
+  "mapped/color/text/component/status/positive": {
+    "sportradar": "{mapped/color/text/positive/inverted}",
+    "bethog": "{mapped/color/text/positive/inverted}",
+    "aposta-ganha": "{mapped/color/text/positive/inverted}"
+  },
+  "mapped/color/text/component/status/subtle": {
+    "sportradar": "{mapped/color/text/secondary}",
+    "bethog": "{mapped/color/text/secondary}",
+    "aposta-ganha": "{mapped/color/text/secondary}"
+  },
+  "mapped/color/text/component/status/warning": {
+    "sportradar": "{mapped/color/text/warning/inverted}",
+    "bethog": "{mapped/color/text/warning/inverted}",
+    "aposta-ganha": "{mapped/color/text/warning/inverted}"
+  },
+  "mapped/color/text/component/tab/ghost/default": {
+    "sportradar": "{mapped/color/text/primary}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{mapped/color/text/primary}"
+  },
+  "mapped/color/text/component/tab/ghost/disabled": {
+    "sportradar": "{mapped/color/text/disabled}",
+    "bethog": "{core/color/white-50}",
+    "aposta-ganha": "{mapped/color/text/disabled}"
+  },
+  "mapped/color/text/component/tab/ghost/selected": {
+    "sportradar": "{mapped/color/text/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{mapped/color/text/white}"
+  },
+  "mapped/color/text/component/tab/ghost/selected-subtle": {
+    "sportradar": "{mapped/color/text/primary}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{mapped/color/text/primary}"
+  },
+  "mapped/color/text/component/tab/outline/default": {
+    "sportradar": "{mapped/color/text/primary}",
+    "bethog": "{mapped/color/text/primary}",
+    "aposta-ganha": "{mapped/color/text/primary}"
+  },
+  "mapped/color/text/component/tab/outline/disabled": {
+    "sportradar": "{mapped/color/text/disabled}",
+    "bethog": "{mapped/color/text/disabled}",
+    "aposta-ganha": "{mapped/color/text/disabled}"
+  },
+  "mapped/color/text/component/tab/outline/selected": {
+    "sportradar": "{mapped/color/text/on-primary/primary}",
+    "bethog": "{mapped/color/text/on-primary/primary}",
+    "aposta-ganha": "{mapped/color/text/on-primary/primary}"
+  },
+  "mapped/color/text/component/tab/outline/selected-subtle": {
+    "sportradar": "{mapped/color/text/primary}",
+    "bethog": "{mapped/color/text/primary}",
+    "aposta-ganha": "{mapped/color/text/primary}"
+  },
+  "mapped/color/text/component/tag/accent": {
+    "sportradar": "{mapped/color/text/on-primary/primary}",
+    "bethog": "{mapped/color/text/on-primary/primary}",
+    "aposta-ganha": "{mapped/color/text/on-primary/primary}"
+  },
+  "mapped/color/text/component/tag/accent-inverted": {
+    "sportradar": "{mapped/color/text/accent}",
+    "bethog": "{core/color/bethog-02}",
+    "aposta-ganha": "{mapped/color/text/accent}"
+  },
+  "mapped/color/text/component/tag/default": {
+    "sportradar": "{mapped/color/text/primary}",
+    "bethog": "{mapped/color/text/primary}",
+    "aposta-ganha": "{mapped/color/text/primary}"
+  },
+  "mapped/color/text/component/time-indicator/live": {
+    "sportradar": "{mapped/color/text/primary}",
+    "bethog": "{mapped/color/text/primary}",
+    "aposta-ganha": "{mapped/color/text/primary}"
+  },
+  "mapped/color/text/component/time-indicator/prematch": {
+    "sportradar": "{mapped/color/text/primary}",
+    "bethog": "{mapped/color/text/primary}",
+    "aposta-ganha": "{mapped/color/text/primary}"
+  },
+  "mapped/color/text/disabled": {
+    "sportradar": "{core/color/neutral/1100-50}",
+    "bethog": "{core/color/neutral/00-50}",
+    "aposta-ganha": "{core/color/neutral/1100-50}"
+  },
+  "mapped/color/text/info/default": {
+    "sportradar": "{core/color/light-blue/500}",
+    "bethog": "{core/color/light-blue/500}",
+    "aposta-ganha": "{core/color/light-blue/500}"
+  },
+  "mapped/color/text/info/inverted": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/text/info/on-inverted": {
+    "sportradar": "{core/color/light-blue/500}",
+    "bethog": "{core/color/light-blue/500}",
+    "aposta-ganha": "{core/color/light-blue/500}"
+  },
+  "mapped/color/text/inverted/disabled": {
+    "sportradar": "{core/color/neutral/00-50}",
+    "bethog": "{core/color/neutral/1100-50}",
+    "aposta-ganha": "{core/color/neutral/00-50}"
+  },
+  "mapped/color/text/inverted/primary": {
+    "sportradar": "{core/color/neutral/00}",
+    "bethog": "{core/color/neutral/1100}",
+    "aposta-ganha": "{core/color/neutral/00}"
+  },
+  "mapped/color/text/inverted/secondary": {
+    "sportradar": "{core/color/neutral/00-70}",
+    "bethog": "{core/color/neutral/1100-70}",
+    "aposta-ganha": "{core/color/neutral/00-70}"
+  },
+  "mapped/color/text/negative/default": {
+    "sportradar": "{core/color/red/500}",
+    "bethog": "{core/color/red/500}",
+    "aposta-ganha": "{core/color/red/500}"
+  },
+  "mapped/color/text/negative/inverted": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/text/negative/inverted-transparent": {
+    "sportradar": "{core/color/white-0}",
+    "bethog": "{core/color/white-0}",
+    "aposta-ganha": "{core/color/white-0}"
+  },
+  "mapped/color/text/negative/on-inverted": {
+    "sportradar": "{core/color/red/500}",
+    "bethog": "{core/color/red/500}",
+    "aposta-ganha": "{core/color/red/500}"
+  },
+  "mapped/color/text/on-brand/disabled": {
+    "sportradar": "{core/color/white-50}",
+    "bethog": "{core/color/white-50}",
+    "aposta-ganha": "{core/color/white-50}"
+  },
+  "mapped/color/text/on-brand/inverted": {
+    "sportradar": "{core/color/brand-01}",
+    "bethog": "{core/color/brand-01}",
+    "aposta-ganha": "{core/color/brand-01}"
+  },
+  "mapped/color/text/on-brand/inverted-disabled": {
+    "sportradar": "{core/color/black-70}",
+    "bethog": "{core/color/black-50}",
+    "aposta-ganha": "{core/color/black-70}"
+  },
+  "mapped/color/text/on-brand/primary": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/text/on-brand/secondary": {
+    "sportradar": "{core/color/white-70}",
+    "bethog": "{core/color/white-70}",
+    "aposta-ganha": "{core/color/white-70}"
+  },
+  "mapped/color/text/on-brand/transparent": {
+    "sportradar": "{core/color/white-0}",
+    "bethog": "{core/color/white-0}",
+    "aposta-ganha": "{core/color/white-0}"
+  },
+  "mapped/color/text/on-primary/disabled": {
+    "sportradar": "{core/color/white-50}",
+    "bethog": "{core/color/black-50}",
+    "aposta-ganha": "{core/color/white-50}"
+  },
+  "mapped/color/text/on-primary/primary": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/black}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/text/on-primary/secondary": {
+    "sportradar": "{core/color/white-70}",
+    "bethog": "{core/color/black-70}",
+    "aposta-ganha": "{core/color/white-70}"
+  },
+  "mapped/color/text/on-primary/transparent": {
+    "sportradar": "{core/color/white-0}",
+    "bethog": "{core/color/black-0}",
+    "aposta-ganha": "{core/color/white-0}"
+  },
+  "mapped/color/text/positive/default": {
+    "sportradar": "{core/color/green/500}",
+    "bethog": "{core/color/green/500}",
+    "aposta-ganha": "{core/color/green/500}"
+  },
+  "mapped/color/text/positive/inverted": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/black}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/text/positive/inverted-transparent": {
+    "sportradar": "{core/color/white-0}",
+    "bethog": "{core/color/white-0}",
+    "aposta-ganha": "{core/color/white-0}"
+  },
+  "mapped/color/text/positive/on-inverted": {
+    "sportradar": "{core/color/black}",
+    "bethog": "{core/color/black}",
+    "aposta-ganha": "{core/color/black}"
+  },
+  "mapped/color/text/primary": {
+    "sportradar": "{core/color/neutral/1100}",
+    "bethog": "{core/color/neutral/00}",
+    "aposta-ganha": "{core/color/neutral/1100}"
+  },
+  "mapped/color/text/primary-transparent": {
+    "sportradar": "{core/color/neutral/1100-00}",
+    "bethog": "{core/color/neutral/00-00}",
+    "aposta-ganha": "{core/color/neutral/1100-00}"
+  },
+  "mapped/color/text/secondary": {
+    "sportradar": "{core/color/neutral/1100-70}",
+    "bethog": "{core/color/neutral/00-70}",
+    "aposta-ganha": "{core/color/neutral/1100-70}"
+  },
+  "mapped/color/text/warning/default": {
+    "sportradar": "{core/color/light-yellow/500}",
+    "bethog": "{core/color/light-yellow/500}",
+    "aposta-ganha": "{core/color/light-yellow/500}"
+  },
+  "mapped/color/text/warning/inverted": {
+    "sportradar": "{core/color/black}",
+    "bethog": "{core/color/black}",
+    "aposta-ganha": "{core/color/black}"
+  },
+  "mapped/color/text/warning/on-inverted": {
+    "sportradar": "{core/color/black}",
+    "bethog": "{core/color/black}",
+    "aposta-ganha": "{core/color/black}"
+  },
+  "mapped/color/text/white": {
+    "sportradar": "{core/color/white}",
+    "bethog": "{core/color/white}",
+    "aposta-ganha": "{core/color/white}"
+  },
+  "mapped/color/text/white-50": {
+    "sportradar": "{core/color/white-50}",
+    "bethog": "{core/color/white-50}",
+    "aposta-ganha": "{core/color/white-50}"
+  },
+  "mapped/color/text/white-70": {
+    "sportradar": "{core/color/white-70}",
+    "bethog": "{core/color/white-70}",
+    "aposta-ganha": "{core/color/white-70}"
   }
 }
