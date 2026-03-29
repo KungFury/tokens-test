@@ -2269,7 +2269,7 @@
   },
   "mapped/color/surface/page": {
     "betr9": "{core/color/neutral/950}",
-    "zenobet": "{core/color/neutral/950}",
+    "zenobet": "{mapped/color/text/negative/default}",
     "vinn-light": "{core/color/blue/50}",
     "vinn-dark": "{core/color/neutral/950}",
     "sportradar-light": "{core/color/blue/50}",
