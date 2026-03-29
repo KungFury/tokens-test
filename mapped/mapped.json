@@ -5074,5 +5074,17 @@
     "aposta-ganha-dark": "{core/color/neutral/1100-50}",
     "bethog": "{core/color/neutral/1100-50}",
     "aposta-ganha-blue": "{core/color/neutral/1100-50}"
+  },
+  "mapped/color/surface/test-new": {
+    "sportradar-light": null,
+    "sportradar-dark": null,
+    "bethog": null,
+    "betr9": null,
+    "zenobet": null,
+    "vinn-light": null,
+    "vinn-dark": null,
+    "aposta-ganha-light": null,
+    "aposta-ganha-dark": null,
+    "aposta-ganha-blue": null
   }
 }
