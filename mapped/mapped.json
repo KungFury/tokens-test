@@ -5144,7 +5144,7 @@
     "zenobet": null,
     "vinn-light": null,
     "vinn-dark": null,
-    "aposta-ganha-light": null,
+    "aposta-ganha-light": "{mapped/color/surface/card-default}",
     "aposta-ganha-dark": null,
     "aposta-ganha-blue": null
   }
