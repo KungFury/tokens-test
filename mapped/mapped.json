@@ -5138,7 +5138,7 @@
   },
   "mapped/color/surface/9999": {
     "sportradar-light": "{mapped/color/surface/card-default}",
-    "sportradar-dark": null,
+    "sportradar-dark": "{mapped/color/surface/card-default}",
     "bethog": null,
     "betr9": null,
     "zenobet": null,
