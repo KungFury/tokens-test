@@ -5137,7 +5137,7 @@
     "aposta-ganha-blue": null
   },
   "mapped/color/surface/9999": {
-    "sportradar-light": null,
+    "sportradar-light": "{mapped/color/surface/card-default}",
     "sportradar-dark": null,
     "bethog": null,
     "betr9": null,
