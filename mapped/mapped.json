@@ -6442,5 +6442,20 @@
   },
   "mapped/surface/armin": {
     "sportradar-light": "{mapped/color/text/component/outcome/odds/selected}"
+  },
+  "mapped/color/surface/goran": {
+    "sportradar-light": null,
+    "sportradar-dark": null,
+    "bethog": null,
+    "betr9": null,
+    "zenobet": null,
+    "vinn-light": null,
+    "vinn-dark": null,
+    "aposta-ganha-light": null,
+    "aposta-ganha-dark": null,
+    "aposta-ganha-blue": null,
+    "nikolabet-nikola-light": null,
+    "nikolabet-nikola-dark": null,
+    "julius-agahowa-taribo-west": null
   }
 }
